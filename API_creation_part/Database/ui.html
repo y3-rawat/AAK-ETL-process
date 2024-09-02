@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charts</title>
+    <style>
+        .chart-container {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Charts</h1>
+    <button onclick="showCharts()">Show Charts</button>
+    <div id="charts" class="chart-container"></div>
+
+    <script>
+        async function showCharts() {
+            const response = await fetch('charts.json');
+            const charts = await response.json();
+            const container = document.getElementById('charts');
+            container.innerHTML = charts.map(chart => `<img src="data:image/png;base64,${chart}" alt="Chart">`).join('');
+            container.style.display = 'block';
+        }
+    </script>
+</body>
+</html>

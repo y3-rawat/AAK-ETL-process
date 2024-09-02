@@ -1,0 +1,274 @@
+{
+    "jsonGraph": {
+        "countryIndicatorGroups": {
+            "$type": "atom",
+            "value": {
+                "topic": {
+                    "Environment": [
+                        "EN.ATM.CO2E.PC",
+                        "EG.ELC.ACCS.ZS",
+                        "EG.ELC.RNWX.ZS",
+                        "SH.STA.SMSS.ZS",
+                        "AG.LND.FRST.ZS",
+                        "ER.H2O.FWTL.ZS"
+                    ],
+                    "Economic": [
+                        [
+                            "NY.GDP.MKTP.CD",
+                            "NY.GDP.MKTP.KD",
+                            "NY.GDP.MKTP.CN",
+                            "NY.GDP.MKTP.KN"
+                        ],
+                        [
+                            "NY.GDP.PCAP.CD",
+                            "NY.GDP.PCAP.KD",
+                            "NY.GDP.PCAP.CN",
+                            "NY.GDP.PCAP.KN"
+                        ],
+                        "NY.GDP.MKTP.KD.ZG",
+                        "SL.UEM.TOTL.ZS",
+                        "FP.CPI.TOTL.ZG",
+                        "BX.TRF.PWKR.DT.GD.ZS"
+                    ],
+                    "Institutions": [
+                        "GC.DOD.TOTL.GD.ZS",
+                        "BX.KLT.DINV.WD.GD.ZS",
+                        "SG.GEN.PARL.ZS",
+                        "IT.NET.USER.ZS",
+                        "VC.IHR.PSRC.P5",
+                        "IQ.SPI.OVRL"
+                    ],
+                    "Social": [
+                        "SP.POP.TOTL",
+                        "SP.POP.GROW",
+                        "SM.POP.NETM",
+                        "SI.POV.DDAY",
+                        "SP.DYN.LE00.IN",
+                        "HD.HCI.OVRL"
+                    ]
+                },
+                "sector": {
+                    "Poverty & Inequality": [
+                        "SI.POV.DDAY",
+                        "SI.DST.FRST.20",
+                        "SI.POV.GINI",
+                        "EN.POP.SLUM.UR.ZS"
+                    ],
+                    "Health, Nutrition & Population": [
+                        "SP.DYN.LE00.IN",
+                        "SH.IMM.MEAS",
+                        "SH.SGR.CRSK.ZS",
+                        "SH.DYN.AIDS.ZS"
+                    ],
+                    "Climate Change": [
+                        "EN.ATM.CO2E.PC",
+                        "EG.FEC.RNEW.ZS",
+                        "AG.LND.EL5M.ZS"
+                    ],
+                    "Fragility, Conflict and Violence": [
+                        "VC.IHR.PSRC.P5",
+                        "SM.POP.REFG",
+                        "MS.MIL.TOTL.TF.ZS"
+                    ],
+                    "Urban, Disaster Risk, Resilience, and Land": [
+                        "VC.IDP.NWDS",
+                        "AG.LND.EL5M.UR.K2",
+                        "SP.URB.TOTL.IN.ZS"
+                    ],
+                    "Governance": [
+                        "GC.DOD.TOTL.GD.ZS",
+                        "IQ.SPI.OVRL",
+                        "MS.MIL.XPND.GD.ZS"
+                    ],
+                    "Macroeconomics, Trade & Investment": [
+                        [
+                            "NY.GNP.MKTP.CD",
+                            "NY.GNP.MKTP.KD",
+                            "NY.GNP.MKTP.CN",
+                            "NY.GNP.MKTP.KN"
+                        ],
+                        "NY.GNP.PCAP.KD.ZG",
+                        "BN.GSR.GNFS.CD",
+                        "BN.KLT.DINV.CD"
+                    ],
+                    "Infrastructure and Public-Private Partnerships": [
+                        "IS.RRS.GOOD.MT.K6",
+                        "IE.PPN.ENGY.CD",
+                        "IE.PPN.TRAN.CD",
+                        "IE.PPN.WATR.CD"
+                    ],
+                    "Jobs & Development": [
+                        "SL.TLF.CACT.ZS",
+                        "SL.GDP.PCAP.EM.KD",
+                        "SL.EMP.TOTL.SP.ZS"
+                    ],
+                    "Environment & Natural Resources": [
+                        "AG.LND.FRST.ZS",
+                        "EN.ATM.CO2E.PC",
+                        "NY.ADJ.DFOR.GN.ZS",
+                        "ER.PTD.TOTL.ZS"
+                    ],
+                    "Finance, Competitiveness & Innovation": [
+                        "IC.FRM.BNKS.ZS",
+                        "LP.LPI.ITRN.XQ",
+                        "TX.VAL.TECH.MF.ZS",
+                        "CM.MKT.TRAD.GD.ZS"
+                    ],
+                    "Digital Development": [
+                        "IT.NET.USER.ZS",
+                        "IT.CEL.SETS.P2",
+                        "IT.NET.BBND.P2"
+                    ],
+                    "Energy": [
+                        "EG.USE.COMM.CL.ZS",
+                        "EG.ELC.ACCS.ZS",
+                        "EG.USE.ELEC.KH.PC",
+                        "EG.CFT.ACCS.ZS"
+                    ],
+                    "Social Protection": [
+                        "SL.TLF.0714.ZS",
+                        "SL.FAM.0714.ZS",
+                        "per_allsp.cov_pop_tot",
+                        "GC.REV.SOCL.ZS"
+                    ],
+                    "Water": [
+                        "ER.H2O.FWTL.ZS",
+                        "SH.H2O.BASW.ZS",
+                        "SH.STA.HYGN.ZS",
+                        "ER.MRN.PTMR.ZS"
+                    ],
+                    "Gender": [
+                        "SE.ENR.PRSC.FM.ZS",
+                        "SG.GEN.PARL.ZS",
+                        "SP.DYN.CONU.ZS",
+                        "SH.STA.MMRT"
+                    ],
+                    "Education": [
+                        "SE.PRM.ENRR",
+                        "SE.ADT.LITR.ZS",
+                        "SE.PRM.CMPT.ZS",
+                        "SE.XPD.TOTL.GB.ZS"
+                    ],
+                    "Agriculture": [
+                        "AG.PRD.CROP.XD",
+                        "AG.PRD.LVSK.XD",
+                        "AG.LND.AGRI.ZS",
+                        "NV.AGR.TOTL.ZS"
+                    ],
+                    "Transport": [
+                        "IS.RRS.PASG.KM",
+                        "EN.CO2.TRAN.ZS",
+                        "SH.STA.TRAF.P5"
+                    ]
+                },
+                "sdg": {
+                    "1": [
+                        "SI.POV.DDAY",
+                        "SI.POV.NAHC",
+                        "SI.POV.MDIM"
+                    ],
+                    "2": [
+                        "SH.STA.STNT.ZS",
+                        "SN.ITK.DEFC.ZS",
+                        "SN.ITK.SVFI.ZS",
+                        "SH.STA.STNT.FE.ZS",
+                        "SH.STA.STNT.MA.ZS"
+                    ],
+                    "3": [
+                        "SH.STA.MMRT",
+                        "SH.DYN.MORT",
+                        "SH.HIV.INCD.ZS",
+                        "SH.DYN.MORT.FE",
+                        "SH.DYN.MORT.MA",
+                        "SP.ADO.TFRT"
+                    ],
+                    "4": [
+                        "SE.SEC.CMPT.LO.ZS",
+                        "SE.ADT.1524.LT.ZS",
+                        "SE.ENR.PRSC.FM.ZS",
+                        "SE.SEC.CMPT.LO.FE.ZS",
+                        "SE.SEC.CMPT.LO.MA.ZS"
+                    ],
+                    "5": [
+                        "SG.LAW.INDX",
+                        "SG.GEN.PARL.ZS",
+                        "SL.EMP.SMGT.FE.ZS",
+                        "IC.FRM.FEMM.ZS"
+                    ],
+                    "6": [
+                        "SH.H2O.BASW.ZS",
+                        "SH.STA.BASS.ZS",
+                        "ER.H2O.FWST.ZS",
+                        "SH.H2O.SMDW.ZS",
+                        "SH.STA.SMSS.ZS"
+                    ],
+                    "7": [
+                        "EG.ELC.ACCS.ZS",
+                        "EG.CFT.ACCS.ZS",
+                        "EG.FEC.RNEW.ZS",
+                        "EG.ELC.ACCS.RU.ZS",
+                        "EG.ELC.ACCS.UR.ZS"
+                    ],
+                    "8": [
+                        "NY.GDP.PCAP.KD.ZG",
+                        "SL.GDP.PCAP.EM.KD",
+                        "FX.OWN.TOTL.ZS",
+                        "NY.GDP.MKTP.KD.ZG"
+                    ],
+                    "9": [
+                        "NV.IND.MANF.ZS",
+                        "EN.ATM.CO2E.PC",
+                        "GB.XPD.RSDV.GD.ZS"
+                    ],
+                    "10": [
+                        "SI.SPR.PC40.ZG",
+                        "SI.SPR.PCAP.ZG",
+                        "SI.DST.50MD",
+                        "SI.RMT.COST.IB.ZS",
+                        "SI.RMT.COST.OB.ZS"
+                    ],
+                    "11": [
+                        "EN.POP.SLUM.UR.ZS",
+                        "SP.URB.GROW",
+                        "EN.ATM.PM25.MC.ZS"
+                    ],
+                    "12": [
+                        "NY.ADJ.SVNX.GN.ZS",
+                        "NY.GDP.TOTL.RT.ZS",
+                        "EN.CLC.MDAT.ZS"
+                    ],
+                    "13": [
+                        "EN.CLC.DRSK.XQ",
+                        "EN.ATM.GHGT.KT.CE"
+                    ],
+                    "14": [
+                        "ER.MRN.PTMR.ZS",
+                        "ER.FSH.PROD.MT",
+                        "ER.FSH.AQUA.MT",
+                        "ER.FSH.CAPT.MT"
+                    ],
+                    "15": [
+                        "AG.LND.FRST.ZS",
+                        "ER.LND.PTLD.ZS",
+                        "ER.PTD.TOTL.ZS"
+                    ],
+                    "16": [
+                        "GF.XPD.BUDG.ZS",
+                        "IC.FRM.BRIB.ZS",
+                        "SP.REG.BRTH.ZS",
+                        "SP.REG.BRTH.RU.ZS",
+                        "SP.REG.BRTH.UR.ZS"
+                    ],
+                    "17": [
+                        "DT.TDS.DPPF.XP.ZS",
+                        "BX.KLT.DINV.WD.GD.ZS",
+                        "IT.NET.USER.ZS",
+                        "BX.TRF.PWKR.DT.GD.ZS",
+                        "GC.TAX.TOTL.GD.ZS",
+                        "NE.EXP.GNFS.ZS"
+                    ]
+                }
+            }
+        }
+    }
+}

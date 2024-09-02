@@ -1,0 +1,4008 @@
+{
+    "rows": 20,
+    "os": "60",
+    "page": "4",
+    "total": "27002",
+    "projects": {
+        "P500625": {
+            "id": "P500625",
+            "proj_id": "P500625",
+            "countryshortname": "Malawi",
+            "boardapprovaldate": "2025-04-10T00:00:00Z",
+            "curr_ibrd_commitment": "0",
+            "grantamt": "70000000",
+            "totalamt": "98000000",
+            "regionname": "Eastern And Southern Africa",
+            "closingdate": "2030-06-30",
+            "borrower": "Ministry of Finance",
+            "impagency": "Roads Authority,Ministry of Transport and Public Works",
+            "idacommamt": "98000000",
+            "status": "Pipeline",
+            "pdo": "The Malawi Resilient and Strategic Transport Operational Enhancement Project (RESTORE) aims to (i) provide safe and climate-resilient transport connectivity in the Lower Shire and (ii) strengthen the institutional capacity for climate-resilient road asset management.",
+            "project_name": "Resilient and Strategic Transport Operational Enhancement Project in Malawi",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Republic of Malawi",
+            "projectfinancialtype": "Other",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "168000000",
+            "esrc_ovrl_risk_rate": "Substantial",
+            "curr_ida_commitment": "98000000",
+            "theme_list": [
+                {
+                    "name": "Economic Policy",
+                    "code": "10",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Trade",
+                            "code": "14",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Trade Facilitation",
+                                    "code": "141",
+                                    "seqno": "9"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "1",
+                            "theme3": [
+                                {
+                                    "name": "Adaptation",
+                                    "code": "812",
+                                    "seqno": "1"
+                                },
+                                {
+                                    "name": "Mitigation",
+                                    "code": "811",
+                                    "seqno": "2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Finance",
+                    "code": "30",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Finance for Development",
+                            "code": "33",
+                            "seqno": "11"
+                        }
+                    ]
+                },
+                {
+                    "name": "Human Development and Gender",
+                    "code": "60",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Disease Control",
+                            "code": "62",
+                            "seqno": "8",
+                            "theme3": [
+                                {
+                                    "name": "Pandemic Response",
+                                    "code": "626",
+                                    "seqno": "8"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Gender",
+                            "code": "61",
+                            "seqno": "5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Private Sector Development",
+                    "code": "20",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Jobs",
+                            "code": "22",
+                            "seqno": "6"
+                        },
+                        {
+                            "name": "Public Private Partnerships",
+                            "code": "23",
+                            "seqno": "7"
+                        }
+                    ]
+                },
+                {
+                    "name": "Public Sector Management",
+                    "code": "40",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Public Administration",
+                            "code": "43",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Administrative and Civil Service Reform",
+                                    "code": "431",
+                                    "seqno": "6"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Social Development and Protection",
+                    "code": "50",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Fragility, Conflict and Violence",
+                            "code": "53",
+                            "seqno": "10"
+                        }
+                    ]
+                },
+                {
+                    "name": "Urban and Rural Development",
+                    "code": "70",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Disaster Risk Management",
+                            "code": "75",
+                            "seqno": "2",
+                            "theme3": [
+                                {
+                                    "name": "Disaster Risk Reduction",
+                                    "code": "752",
+                                    "seqno": "7"
+                                },
+                                {
+                                    "name": "Flood and Drought Risk Management",
+                                    "code": "754",
+                                    "seqno": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Road Safety",
+                            "code": "74",
+                            "seqno": "4"
+                        },
+                        {
+                            "name": "Rural Development",
+                            "code": "72",
+                            "seqno": "9",
+                            "theme3": [
+                                {
+                                    "name": "Rural Infrastructure and service delivery",
+                                    "code": "723",
+                                    "seqno": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Urban Development",
+                            "code": "71",
+                            "seqno": "3",
+                            "theme3": [
+                                {
+                                    "name": "Public Transport",
+                                    "code": "713",
+                                    "seqno": "4"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "P181455": {
+            "id": "P181455",
+            "proj_id": "P181455",
+            "countryshortname": "Liberia",
+            "boardapprovaldate": "2025-04-10T00:00:00Z",
+            "grantamt": "33375000",
+            "regionname": "Western And Central Africa",
+            "borrower": "Republic of Liberia",
+            "impagency": "Ministry of Education",
+            "status": "Pipeline",
+            "pdo": "To improve foundational learning and equitable access in public primary schools in targeted counties and to strengthen data and management systems",
+            "project_name": "Excellence in Learning in Liberia",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Republic of Liberia",
+            "projectfinancialtype": "Grants",
+            "proj_last_upd_date": "2024-01-08T00:00:00Z",
+            "curr_project_cost": "104500000",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "33375000",
+            "esrc_ovrl_risk_rate": "Moderate",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "1",
+                            "percent": "0",
+                            "theme3": [
+                                {
+                                    "name": "Adaptation",
+                                    "code": "812",
+                                    "seqno": "3",
+                                    "percent": "0"
+                                },
+                                {
+                                    "name": "Mitigation",
+                                    "code": "811",
+                                    "seqno": "2",
+                                    "percent": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Human Development and Gender",
+                    "code": "60",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Education",
+                            "code": "65",
+                            "seqno": "7",
+                            "percent": "0",
+                            "theme3": [
+                                {
+                                    "name": "Access to Education",
+                                    "code": "651",
+                                    "seqno": "8",
+                                    "percent": "0"
+                                },
+                                {
+                                    "name": "Education Facilities",
+                                    "code": "658",
+                                    "seqno": "14",
+                                    "percent": "0"
+                                },
+                                {
+                                    "name": "Education Governance, School-Based Management",
+                                    "code": "656",
+                                    "seqno": "12",
+                                    "percent": "0"
+                                },
+                                {
+                                    "name": "Standards, Curriculum and Textbooks",
+                                    "code": "657",
+                                    "seqno": "13",
+                                    "percent": "0"
+                                },
+                                {
+                                    "name": "Student Assessment",
+                                    "code": "655",
+                                    "seqno": "11",
+                                    "percent": "0"
+                                },
+                                {
+                                    "name": "Teachers",
+                                    "code": "654",
+                                    "seqno": "10",
+                                    "percent": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Urban and Rural Development",
+                    "code": "70",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Disaster Risk Management",
+                            "code": "75",
+                            "seqno": "4",
+                            "percent": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "P181248": {
+            "id": "P181248",
+            "proj_id": "P181248",
+            "countryshortname": "Nigeria",
+            "boardapprovaldate": "2025-04-08T00:00:00Z",
+            "curr_ibrd_commitment": "0",
+            "grantamt": "0",
+            "totalamt": "300000000",
+            "regionname": "Western And Central Africa",
+            "closingdate": "2030-06-02",
+            "borrower": "Federal Ministry of Finance",
+            "impagency": "North East Development Commission,The Federal Ministry of Budget and Economic Planning,National Commission for Refugee Migrants, and Internally Displaced Persons",
+            "idacommamt": "300000000",
+            "status": "Pipeline",
+            "pdo": "The Project Development Objective is to improve access to basic services and economic opportunities for internally displaced persons (IDPs) and host communities in displacement affected LGAs of Northern Nigeria.",
+            "project_name": "Solutions for the Internally Displaced and Host Communities Project",
+            "cons_serv_reqd_ind": "TBD",
+            "countryname": "Federal Republic of Nigeria",
+            "projectfinancialtype": "IDA",
+            "proj_last_upd_date": "2023-06-20T00:00:00Z",
+            "curr_project_cost": "0",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "300000000",
+            "esrc_ovrl_risk_rate": "Substantial",
+            "curr_ida_commitment": "300000000",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Adaptation",
+                                    "code": "812",
+                                    "seqno": "3"
+                                },
+                                {
+                                    "name": "Mitigation",
+                                    "code": "811",
+                                    "seqno": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Environmental Health and Pollution Management",
+                            "code": "82",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Air quality management",
+                                    "code": "821",
+                                    "seqno": "3"
+                                },
+                                {
+                                    "name": "Soil Pollution",
+                                    "code": "823",
+                                    "seqno": "4"
+                                },
+                                {
+                                    "name": "Water Pollution",
+                                    "code": "822",
+                                    "seqno": "11"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Human Development and Gender",
+                    "code": "60",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Labor Market Policy and Programs",
+                            "code": "66",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Active Labor Market Programs",
+                                    "code": "663",
+                                    "seqno": "9"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Social Development and Protection",
+                    "code": "50",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Fragility, Conflict and Violence",
+                            "code": "53",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Conflict Prevention",
+                                    "code": "531",
+                                    "seqno": "6"
+                                },
+                                {
+                                    "name": "Forced Displacement",
+                                    "code": "533",
+                                    "seqno": "1"
+                                },
+                                {
+                                    "name": "Post-conflict reconstruction",
+                                    "code": "532",
+                                    "seqno": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Social Inclusion",
+                            "code": "51",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Other Excluded Groups",
+                                    "code": "512",
+                                    "seqno": "12"
+                                },
+                                {
+                                    "name": "Participation and Civic Engagement",
+                                    "code": "513",
+                                    "seqno": "13"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Social Protection",
+                            "code": "52",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Social Safety Nets",
+                                    "code": "521",
+                                    "seqno": "10"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Urban and Rural Development",
+                    "code": "70",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Disaster Risk Management",
+                            "code": "75",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Flood and Drought Risk Management",
+                                    "code": "754",
+                                    "seqno": "14"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Urban Development",
+                            "code": "71",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Services and Housing for the Poor",
+                                    "code": "712",
+                                    "seqno": "4"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "P500481": {
+            "id": "P500481",
+            "proj_id": "P500481",
+            "countryshortname": "Colombia",
+            "boardapprovaldate": "2025-04-07T00:00:00Z",
+            "grantamt": "24281344",
+            "regionname": "Latin America And Caribbean",
+            "closingdate": "2030-05-31",
+            "borrower": "Fiduciaria Colombiana de Comercio Exterior – Fiducoldex,Fund for Life and Biodiversity - Ministry of Environment and Sustainable Development",
+            "impagency": "Ministry of Environment and Sustainable Development,Amazonian Scientific Research Institute - Sinchi",
+            "status": "Pipeline",
+            "pdo": "To improve biodiversity conservation, connectivity, and forest governance in selected Colombian Amazon landscapes.   ",
+            "project_name": "Forest Connectivity, Conservation and Sustainable management in Colombian Amazon landscapes – Life Amazon",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Republic of Colombia",
+            "projectfinancialtype": "Other",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "24281344",
+            "esrc_ovrl_risk_rate": "Substantial",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Mitigation",
+                                    "code": "811"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Environmental policies and institutions",
+                            "code": "84"
+                        },
+                        {
+                            "name": "Renewable Natural Resources Asset Management",
+                            "code": "83",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Biodiversity",
+                                    "code": "834"
+                                },
+                                {
+                                    "name": "Forests Policies and institutions",
+                                    "code": "831"
+                                },
+                                {
+                                    "name": "Landscape Management",
+                                    "code": "835"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "P181444": {
+            "id": "P181444",
+            "proj_id": "P181444",
+            "countryshortname": "Croatia",
+            "boardapprovaldate": "2025-04-01T00:00:00Z",
+            "curr_ibrd_commitment": "84000000",
+            "grantamt": "0",
+            "totalamt": "84000000",
+            "regionname": "Europe And Central Asia",
+            "borrower": "MSTI",
+            "impagency": "Jadrolinija",
+            "idacommamt": "0",
+            "status": "Pipeline",
+            "pdo": "Improving the operational efficiency of Jadrolinija, and strengthening of the governance framework and reducing the carbon footprint of the passenger ferry sector in Croatia.",
+            "project_name": "Green and Efficient Ferry Sector in Croatia",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Republic of Croatia",
+            "projectfinancialtype": "IBRD",
+            "proj_last_upd_date": "2024-03-14T00:00:00Z",
+            "curr_project_cost": "300000000",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "84000000",
+            "esrc_ovrl_risk_rate": "Substantial",
+            "curr_ida_commitment": "0",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "1",
+                            "theme3": [
+                                {
+                                    "name": "Adaptation",
+                                    "code": "812",
+                                    "seqno": "4"
+                                },
+                                {
+                                    "name": "Mitigation",
+                                    "code": "811",
+                                    "seqno": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Finance",
+                    "code": "30",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Finance for Development",
+                            "code": "33",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Infrastructure Finance",
+                                    "code": "333",
+                                    "seqno": "3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Urban and Rural Development",
+                    "code": "70",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Urban Development",
+                            "code": "71",
+                            "seqno": "2",
+                            "theme3": [
+                                {
+                                    "name": "Public Transport",
+                                    "code": "713",
+                                    "seqno": "2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "P177372": {
+            "id": "P177372",
+            "proj_id": "P177372",
+            "countryshortname": "Gabon",
+            "boardapprovaldate": "2025-04-01T00:00:00Z",
+            "curr_ibrd_commitment": "70000000",
+            "grantamt": "0",
+            "totalamt": "70000000",
+            "regionname": "Western And Central Africa",
+            "borrower": "Gabonese Republic",
+            "impagency": "Ministère des Travaux Publics, de l'Équipement et des Infrastructures",
+            "idacommamt": "0",
+            "status": "Pipeline",
+            "pdo": "The project's development objective is to : (i) Promote integrated urban development by improving access to urban infrastructure and basic services in underserved urban neighborhoods; and (ii) strengthen urban management capacity at the local and national levels.",
+            "project_name": "Gabon Urban Development Project",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Gabonese Republic",
+            "projectfinancialtype": "IBRD",
+            "proj_last_upd_date": "2023-04-04T00:00:00Z",
+            "curr_project_cost": "90000000",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "70000000",
+            "esrc_ovrl_risk_rate": "Substantial",
+            "curr_ida_commitment": "0",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "7",
+                            "percent": "0",
+                            "theme3": [
+                                {
+                                    "name": "Adaptation",
+                                    "code": "812",
+                                    "seqno": "9",
+                                    "percent": "0"
+                                },
+                                {
+                                    "name": "Mitigation",
+                                    "code": "811",
+                                    "seqno": "8",
+                                    "percent": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Human Development and Gender",
+                    "code": "60",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Gender",
+                            "code": "61",
+                            "seqno": "5",
+                            "percent": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Public Sector Management",
+                    "code": "40",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Public Administration",
+                            "code": "43",
+                            "seqno": "2",
+                            "percent": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Urban and Rural Development",
+                    "code": "70",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Disaster Risk Management",
+                            "code": "75",
+                            "seqno": "20",
+                            "percent": "0",
+                            "theme3": [
+                                {
+                                    "name": "Flood and Drought Risk Management",
+                                    "code": "754",
+                                    "seqno": "21",
+                                    "percent": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Urban Development",
+                            "code": "71",
+                            "seqno": "15",
+                            "percent": "0",
+                            "theme3": [
+                                {
+                                    "name": "Urban Infrastructure and Service Delivery",
+                                    "code": "711",
+                                    "seqno": "16",
+                                    "percent": "0"
+                                },
+                                {
+                                    "name": "Urban Planning",
+                                    "code": "714",
+                                    "seqno": "17",
+                                    "percent": "0"
+                                },
+                                {
+                                    "name": "Urban Water and Sanitation",
+                                    "code": "716",
+                                    "seqno": "19",
+                                    "percent": "0"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "P506142": {
+            "id": "P506142",
+            "proj_id": "P506142",
+            "countryshortname": "Brazil",
+            "boardapprovaldate": "2025-03-31T00:00:00Z",
+            "curr_ibrd_commitment": "120000000",
+            "grantamt": "0",
+            "totalamt": "120000000",
+            "regionname": "Latin America And Caribbean",
+            "closingdate": "2031-07-31",
+            "borrower": "State of Santa Catarina",
+            "impagency": "Secretary of Agriculture and Livestock of Santa Catarina",
+            "idacommamt": "0",
+            "status": "Pipeline",
+            "pdo": "To increase climate resilience and market access of family farmers in the State of Santa Catarina and, in case of an Eligible Crisis or Emergency, to respond promptly and effectively to it.",
+            "project_name": "Santa Catarina Rural Development Project for Sustainability and Innovation",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Federative Republic of Brazil",
+            "projectfinancialtype": "IBRD",
+            "last_stage_reached_name": "BEGIN APPRAISAL",
+            "curr_total_commitment": "120000000",
+            "esrc_ovrl_risk_rate": "Moderate",
+            "curr_ida_commitment": "0"
+        },
+        "P181608": {
+            "id": "P181608",
+            "proj_id": "P181608",
+            "countryshortname": "Brazil",
+            "boardapprovaldate": "2025-03-31T00:00:00Z",
+            "curr_ibrd_commitment": "110000000",
+            "grantamt": "0",
+            "totalamt": "110000000",
+            "regionname": "Latin America And Caribbean",
+            "closingdate": "2030-06-28",
+            "borrower": "State of Amazonas",
+            "impagency": "State Secretariat of Administration and Management (SEAD)",
+            "idacommamt": "0",
+            "status": "Pipeline",
+            "pdo": "Improve efficiency in public resource management in selected departments of the State of Amazonas.",
+            "project_name": "Progestão Program - MPA Phase 1 States of Amazonas and Rio Grande do Sul",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Federative Republic of Brazil",
+            "projectfinancialtype": "IBRD",
+            "proj_last_upd_date": "2024-03-11T00:00:00Z",
+            "curr_project_cost": "780000000",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "110000000",
+            "esrc_ovrl_risk_rate": "Low",
+            "curr_ida_commitment": "0",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Adaptation",
+                                    "code": "812",
+                                    "seqno": "7"
+                                },
+                                {
+                                    "name": "Mitigation",
+                                    "code": "811",
+                                    "seqno": "4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Public Sector Management",
+                    "code": "40",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Public Administration",
+                            "code": "43",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Administrative and Civil Service Reform",
+                                    "code": "431",
+                                    "seqno": "3"
+                                },
+                                {
+                                    "name": "Public Assets and Investment Management",
+                                    "code": "435",
+                                    "seqno": "4"
+                                },
+                                {
+                                    "name": "Transparency, Accountability and Good Governance",
+                                    "code": "432",
+                                    "seqno": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Public Finance Management",
+                            "code": "41",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Domestic Revenue Administration",
+                                    "code": "412",
+                                    "seqno": "5"
+                                },
+                                {
+                                    "name": "Public Expenditure Management",
+                                    "code": "411",
+                                    "seqno": "1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "P181448": {
+            "id": "P181448",
+            "proj_id": "P181448",
+            "countryshortname": "Dominican Republic",
+            "boardapprovaldate": "2025-03-31T00:00:00Z",
+            "curr_ibrd_commitment": "150000000",
+            "grantamt": "0",
+            "totalamt": "150000000",
+            "regionname": "Latin America And Caribbean",
+            "borrower": "Dominican Republic",
+            "impagency": "Ministry of Industry and Commerce",
+            "idacommamt": "0",
+            "status": "Pipeline",
+            "pdo": "The project's development objective is to facilitate private investment in green, resilient, and high-value added industrial development.\n",
+            "project_name": "Dominican Republic Green Resilient Industrial Transformation",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Dominican Republic",
+            "projectfinancialtype": "IBRD",
+            "proj_last_upd_date": "2023-10-12T00:00:00Z",
+            "curr_project_cost": "150000000",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "150000000",
+            "esrc_ovrl_risk_rate": "High",
+            "curr_ida_commitment": "0",
+            "theme_list": [
+                {
+                    "name": "Economic Policy",
+                    "code": "10",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Economic Growth and Planning",
+                            "code": "13",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Green Growth",
+                                    "code": "133"
+                                },
+                                {
+                                    "name": "Structural Transformation and Economic Diversifica",
+                                    "code": "132"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Adaptation",
+                                    "code": "812"
+                                },
+                                {
+                                    "name": "Mitigation",
+                                    "code": "811"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Finance",
+                    "code": "30",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Finance for Development",
+                            "code": "33",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Infrastructure Finance",
+                                    "code": "333"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Financial Infrastructure and Access",
+                            "code": "32",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Credit Infrastructure",
+                                    "code": "321"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Human Development and Gender",
+                    "code": "60",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Gender",
+                            "code": "61"
+                        },
+                        {
+                            "name": "Labor Market Policy and Programs",
+                            "code": "66",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Skills Development",
+                                    "code": "661"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Private Sector Development",
+                    "code": "20",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Business Enabling Environment",
+                            "code": "21",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Investment and Business Climate",
+                                    "code": "211"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Enterprise Development",
+                            "code": "24",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Global value chains",
+                                    "code": "242"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Jobs",
+                            "code": "22",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Job Creation",
+                                    "code": "221"
+                                },
+                                {
+                                    "name": "Job Quality",
+                                    "code": "222"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "P180867": {
+            "id": "P180867",
+            "proj_id": "P180867",
+            "countryshortname": "Caribbean",
+            "boardapprovaldate": "2025-03-31T00:00:00Z",
+            "curr_ibrd_commitment": "41000000",
+            "grantamt": "1200000",
+            "totalamt": "46100000",
+            "regionname": "Latin America And Caribbean",
+            "borrower": "Dominica,St. Lucia,Grenada,St. Vincent and the Grenadines,Belize,jamaica,The Bahamas",
+            "impagency": "Ministry of Finance,Ministry of Finance, Economic Development and Investment,Ministry of Finance and Public Service,Ministry of Finance, Planning and IT,Climate Resilence Execution Agency for Dominica,Ministry of Finance,Ministry of Finance",
+            "idacommamt": "5100000",
+            "status": "Pipeline",
+            "pdo": "To expand participating Caribbean contries’ portfolio of financial protection instruments against economic losses from natural disasters and climate change, and to incorporate gender considerations in their disaster risk finance strategies.",
+            "project_name": "Enhancing Financial Resilience to Natural Disasters and Climate Change",
+            "cons_serv_reqd_ind": "TBD",
+            "countryname": "Caribbean",
+            "projectfinancialtype": "IBRD",
+            "proj_last_upd_date": "2023-05-30T00:00:00Z",
+            "curr_project_cost": "62100000",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "47300000",
+            "esrc_ovrl_risk_rate": "Low",
+            "curr_ida_commitment": "5100000",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "5",
+                            "percent": "0",
+                            "theme3": [
+                                {
+                                    "name": "Adaptation",
+                                    "code": "812",
+                                    "seqno": "7",
+                                    "percent": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Urban and Rural Development",
+                    "code": "70",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Disaster Risk Management",
+                            "code": "75",
+                            "seqno": "21",
+                            "percent": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "P180648": {
+            "id": "P180648",
+            "proj_id": "P180648",
+            "countryshortname": "Colombia",
+            "boardapprovaldate": "2025-03-31T00:00:00Z",
+            "curr_ibrd_commitment": "250000000",
+            "grantamt": "0",
+            "totalamt": "250000000",
+            "regionname": "Latin America And Caribbean",
+            "closingdate": "2031-03-31",
+            "borrower": "Ministerio de Hacienda y Crédito Público",
+            "impagency": "Ministry of Information and Communication Technologies - MINTIC",
+            "idacommamt": "0",
+            "status": "Pipeline",
+            "pdo": "The PDO is to foster an inclusive and resilient digital uptake and to respond effectively in case of an Eligible Crisis or Emergency.",
+            "project_name": "Closing the digital gap in Colombia",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Republic of Colombia",
+            "projectfinancialtype": "IBRD",
+            "proj_last_upd_date": "2023-06-22T00:00:00Z",
+            "curr_project_cost": "200000000",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "250000000",
+            "esrc_ovrl_risk_rate": "Substantial",
+            "curr_ida_commitment": "0",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "2",
+                            "theme3": [
+                                {
+                                    "name": "Adaptation",
+                                    "code": "812",
+                                    "seqno": "10",
+                                    "percent": "0"
+                                },
+                                {
+                                    "name": "Mitigation",
+                                    "code": "811",
+                                    "seqno": "2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Human Development and Gender",
+                    "code": "60",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Gender",
+                            "code": "61",
+                            "seqno": "14",
+                            "percent": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Private Sector Development",
+                    "code": "20",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "ICT",
+                            "code": "26",
+                            "seqno": "1",
+                            "theme3": [
+                                {
+                                    "name": "ICT Policies",
+                                    "code": "262",
+                                    "seqno": "3"
+                                },
+                                {
+                                    "name": "ICT Solutions",
+                                    "code": "261",
+                                    "seqno": "1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "P178932": {
+            "id": "P178932",
+            "proj_id": "P178932",
+            "countryshortname": "Colombia",
+            "boardapprovaldate": "2025-03-31T00:00:00Z",
+            "curr_ibrd_commitment": "58340000",
+            "grantamt": "14590000",
+            "totalamt": "58340000",
+            "regionname": "Latin America And Caribbean",
+            "closingdate": "2030-06-28",
+            "borrower": "Bogota Water Utility (Empresa de Acueducto y Alcantarillado de Bogota - EAAB)",
+            "impagency": "Bogota Water Utility (Empresa de Acueducto y Alcantarillado de Bogota - EAAB)",
+            "idacommamt": "0",
+            "status": "Pipeline",
+            "pdo": "Improve EAAB’s wastewater management capacity",
+            "project_name": "Wastewater management for environmental restoration and water security in the Bogota River Basin",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Republic of Colombia",
+            "projectfinancialtype": "IBRD",
+            "proj_last_upd_date": "2023-08-07T00:00:00Z",
+            "curr_project_cost": "110000000",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "72930000",
+            "esrc_ovrl_risk_rate": "Substantial",
+            "curr_ida_commitment": "0",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Environmental Health and Pollution Management",
+                            "code": "82",
+                            "seqno": "14",
+                            "percent": "0"
+                        },
+                        {
+                            "name": "Water Resource Management",
+                            "code": "85",
+                            "seqno": "20",
+                            "percent": "0",
+                            "theme3": [
+                                {
+                                    "name": "Water Institutions, Policies and Reform",
+                                    "code": "851",
+                                    "seqno": "21",
+                                    "percent": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Urban and Rural Development",
+                    "code": "70",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Disaster Risk Management",
+                            "code": "75",
+                            "seqno": "9",
+                            "percent": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "P505094": {
+            "id": "P505094",
+            "proj_id": "P505094",
+            "countryshortname": "Zambia",
+            "boardapprovaldate": "2025-03-27T00:00:00Z",
+            "curr_ibrd_commitment": "0",
+            "grantamt": "0",
+            "totalamt": "100000000",
+            "regionname": "Eastern And Southern Africa",
+            "closingdate": "2031-10-31",
+            "borrower": "Republic of Zambia",
+            "impagency": "Smart Zambia Institute",
+            "idacommamt": "100000000",
+            "status": "Pipeline",
+            "pdo": "Increase access to, and inclusive use of, the internet and digitally enabled services",
+            "project_name": "Digital Zambia Acceleration Project (DZAP)",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Republic of Zambia",
+            "projectfinancialtype": "IDA",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "100000000",
+            "esrc_ovrl_risk_rate": "Moderate",
+            "curr_ida_commitment": "100000000"
+        },
+        "P500570": {
+            "id": "P500570",
+            "proj_id": "P500570",
+            "countryshortname": "Brazil",
+            "boardapprovaldate": "2025-03-27T00:00:00Z",
+            "curr_ibrd_commitment": "53600000",
+            "grantamt": "0",
+            "totalamt": "53600000",
+            "regionname": "Latin America And Caribbean",
+            "closingdate": "2030-05-15",
+            "borrower": "Governo de Sergipe",
+            "impagency": "Secretaria Especial de Planejamento, Orçamento e Inovação",
+            "idacommamt": "0",
+            "status": "Pipeline",
+            "pdo": "To increase access to and the use of sustainable digital services and infrastructure",
+            "project_name": "Sergipe Efficient Digital Acceleration project",
+            "cons_serv_reqd_ind": "TBD",
+            "countryname": "Federative Republic of Brazil",
+            "projectfinancialtype": "IBRD",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "53600000",
+            "esrc_ovrl_risk_rate": "Moderate",
+            "curr_ida_commitment": "0",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Energy",
+                            "code": "86",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Energy Efficiency",
+                                    "code": "861"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Urban and Rural Development",
+                    "code": "70",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Rural Development",
+                            "code": "72",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Rural Infrastructure and service delivery",
+                                    "code": "723"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "P180708": {
+            "id": "P180708",
+            "proj_id": "P180708",
+            "countryshortname": "Yemen, Republic of",
+            "boardapprovaldate": "2025-03-27T00:00:00Z",
+            "curr_ibrd_commitment": "0",
+            "grantamt": "0",
+            "totalamt": "20000000",
+            "regionname": "Middle East And North Africa",
+            "closingdate": "2030-06-30",
+            "borrower": "United Nations Development Programme (UNDP)",
+            "impagency": "United Nations Development Programme (UNDP)",
+            "idacommamt": "20000000",
+            "status": "Pipeline",
+            "pdo": "The Project's Development Objective is to develop the national  payments infrastructure that supports the transparency and efficiency of payments transactions for the Yemeni population and increases financial inclusion.",
+            "project_name": "Yemen Financial Market Infrastructure and Inclusion",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Republic of Yemen",
+            "projectfinancialtype": "IDA",
+            "proj_last_upd_date": "2023-06-08T00:00:00Z",
+            "curr_project_cost": "50000000",
+            "last_stage_reached_name": "DECISION MEETING",
+            "curr_total_commitment": "20000000",
+            "esrc_ovrl_risk_rate": "Moderate",
+            "curr_ida_commitment": "20000000",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "2",
+                            "theme3": [
+                                {
+                                    "name": "Mitigation",
+                                    "code": "811",
+                                    "seqno": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Finance",
+                    "code": "30",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Finance for Development",
+                            "code": "33",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Infrastructure Finance",
+                                    "code": "333",
+                                    "seqno": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Financial Infrastructure and Access",
+                            "code": "32",
+                            "seqno": "1",
+                            "theme3": [
+                                {
+                                    "name": "Financial inclusion",
+                                    "code": "324",
+                                    "seqno": "2"
+                                },
+                                {
+                                    "name": "Payment & markets infrastructure",
+                                    "code": "322",
+                                    "seqno": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Financial Stability",
+                            "code": "31",
+                            "seqno": "8"
+                        }
+                    ]
+                },
+                {
+                    "name": "Human Development and Gender",
+                    "code": "60",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Gender",
+                            "code": "61",
+                            "seqno": "6"
+                        }
+                    ]
+                },
+                {
+                    "name": "Private Sector Development",
+                    "code": "20",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Enterprise Development",
+                            "code": "24",
+                            "seqno": "3"
+                        },
+                        {
+                            "name": "ICT",
+                            "code": "26",
+                            "seqno": "7"
+                        },
+                        {
+                            "name": "Jobs",
+                            "code": "22",
+                            "seqno": "4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Social Development and Protection",
+                    "code": "50",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Fragility, Conflict and Violence",
+                            "code": "53",
+                            "seqno": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "P180672": {
+            "id": "P180672",
+            "proj_id": "P180672",
+            "countryshortname": "India",
+            "boardapprovaldate": "2025-03-27T00:00:00Z",
+            "curr_ibrd_commitment": "400000000",
+            "grantamt": "0",
+            "totalamt": "400000000",
+            "regionname": "South Asia",
+            "closingdate": "2029-10-31",
+            "borrower": "India",
+            "impagency": "Public Works Department (Roads) EAP",
+            "idacommamt": "0",
+            "status": "Pipeline",
+            "pdo": "The overarching goal for the Assam transportation sector support  is to “provide green transportation and climate resilient roads and bridges infrastructure and integrate smallholding farmers and tribal communities in Assam with the South and Southeast Asian markets.”  The overarching goal will be achieved by implementing series of operations (SOPs). \n\t\nSOP 1: The project development objective (PDO) for the Assam Resilient Rural Bridges Program (P178581) approved on March 2, 2024 is to build green, inclusive, and resilient connectivity in rural Assam and strengthen the Assam Public Works Roads Department’s roads and bridges management capability. \n\t\nSOP 2: The PDO for the proposed Assam Disaster Resilient Hill Roads Development Project (P180672) is to enhance climate disaster resilience of hill roads and promote green and inclusive market access in selected hill areas of Assam.  The proposed project development objective is to enhance climate disaster resilience of hill roads and promote green and inclusive market access in selected hill areas of Assam.  ",
+            "project_name": "Assam Disaster Resilient Hill Roads Development Project",
+            "cons_serv_reqd_ind": "TBD",
+            "countryname": "Republic of India",
+            "projectfinancialtype": "IBRD",
+            "proj_last_upd_date": "2023-07-09T00:00:00Z",
+            "curr_project_cost": "500000000",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "400000000",
+            "esrc_ovrl_risk_rate": "High",
+            "curr_ida_commitment": "0",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Adaptation",
+                                    "code": "812",
+                                    "seqno": "1"
+                                },
+                                {
+                                    "name": "Mitigation",
+                                    "code": "811",
+                                    "seqno": "2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Finance",
+                    "code": "30",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Finance for Development",
+                            "code": "33",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Infrastructure Finance",
+                                    "code": "333",
+                                    "seqno": "13"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Private Sector Development",
+                    "code": "20",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Jobs",
+                            "code": "22",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Job Creation",
+                                    "code": "221",
+                                    "seqno": "11"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Public Sector Management",
+                    "code": "40",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Public Administration",
+                            "code": "43",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Administrative and Civil Service Reform",
+                                    "code": "431",
+                                    "seqno": "3"
+                                },
+                                {
+                                    "name": "Municipal Institution Building",
+                                    "code": "437",
+                                    "seqno": "10"
+                                },
+                                {
+                                    "name": "Transparency, Accountability and Good Governance",
+                                    "code": "432",
+                                    "seqno": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Public Finance Management",
+                            "code": "41",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Public Expenditure Management",
+                                    "code": "411",
+                                    "seqno": "12"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Urban and Rural Development",
+                    "code": "70",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Disaster Risk Management",
+                            "code": "75",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Disaster Preparedness",
+                                    "code": "753",
+                                    "seqno": "7"
+                                },
+                                {
+                                    "name": "Flood and Drought Risk Management",
+                                    "code": "754",
+                                    "seqno": "8"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rural Development",
+                            "code": "72",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Rural Infrastructure and service delivery",
+                                    "code": "723",
+                                    "seqno": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Urban Development",
+                            "code": "71",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Public Transport",
+                                    "code": "713",
+                                    "seqno": "9"
+                                },
+                                {
+                                    "name": "Urban Infrastructure and Service Delivery",
+                                    "code": "711",
+                                    "seqno": "6"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "P179630": {
+            "id": "P179630",
+            "proj_id": "P179630",
+            "countryshortname": "Tajikistan",
+            "boardapprovaldate": "2025-03-27T00:00:00Z",
+            "curr_ibrd_commitment": "0",
+            "grantamt": "0",
+            "totalamt": "40000000",
+            "regionname": "Europe And Central Asia",
+            "borrower": "Republic of Tajikistan",
+            "impagency": "State Unitary Enterprise \"Smart City\" under executive state authority of Dushanbe city",
+            "idacommamt": "40000000",
+            "status": "Pipeline",
+            "pdo": "The Project Development Objective (PDO) is to improve solid waste service delivery and institutional capacity in Dushanbe.",
+            "project_name": "Dushanbe Sustainable Urban Development Project",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Republic of Tajikistan",
+            "projectfinancialtype": "IDA",
+            "proj_last_upd_date": "2023-07-17T00:00:00Z",
+            "curr_project_cost": "25000000",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "40000000",
+            "esrc_ovrl_risk_rate": "High",
+            "curr_ida_commitment": "40000000",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "10",
+                            "percent": "0",
+                            "theme3": [
+                                {
+                                    "name": "Adaptation",
+                                    "code": "812",
+                                    "seqno": "12",
+                                    "percent": "0"
+                                },
+                                {
+                                    "name": "Mitigation",
+                                    "code": "811",
+                                    "seqno": "11",
+                                    "percent": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Environmental Health and Pollution Management",
+                            "code": "82",
+                            "seqno": "13",
+                            "percent": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Public Sector Management",
+                    "code": "40",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Public Administration",
+                            "code": "43",
+                            "seqno": "1",
+                            "percent": "0",
+                            "theme3": [
+                                {
+                                    "name": "Municipal Institution Building",
+                                    "code": "437",
+                                    "seqno": "2",
+                                    "percent": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Social Development and Protection",
+                    "code": "50",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Social Inclusion",
+                            "code": "51",
+                            "seqno": "3",
+                            "percent": "0",
+                            "theme3": [
+                                {
+                                    "name": "Other Excluded Groups",
+                                    "code": "512",
+                                    "seqno": "4",
+                                    "percent": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Urban and Rural Development",
+                    "code": "70",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Urban Development",
+                            "code": "71",
+                            "seqno": "19",
+                            "percent": "0",
+                            "theme3": [
+                                {
+                                    "name": "Urban Infrastructure and Service Delivery",
+                                    "code": "711",
+                                    "seqno": "20",
+                                    "percent": "0"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "P181008": {
+            "id": "P181008",
+            "proj_id": "P181008",
+            "countryshortname": "Romania",
+            "boardapprovaldate": "2025-03-26T00:00:00Z",
+            "curr_ibrd_commitment": "277975008",
+            "grantamt": "277975008",
+            "totalamt": "277975008",
+            "regionname": "Europe And Central Asia",
+            "closingdate": "2034-07-03",
+            "borrower": "Romania",
+            "impagency": "Ministry of Justice",
+            "idacommamt": "0",
+            "status": "Pipeline",
+            "pdo": "Project Development Objective (PDO) is to improve access to resilient, climate-smart, and integrated urban justice infrastructure and selected integrated justice services for citizens in Romania. ",
+            "project_name": "Justice for Sustainable Urban Transformation (JUST)",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Romania",
+            "projectfinancialtype": "IBRD",
+            "proj_last_upd_date": "2023-06-05T00:00:00Z",
+            "curr_project_cost": "400000000",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "555950020",
+            "esrc_ovrl_risk_rate": "High",
+            "curr_ida_commitment": "0",
+            "theme_list": [
+                {
+                    "name": "Environment and Natural Resource Management",
+                    "code": "80",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Climate change",
+                            "code": "81",
+                            "seqno": "1",
+                            "theme3": [
+                                {
+                                    "name": "Adaptation",
+                                    "code": "812",
+                                    "seqno": "2"
+                                },
+                                {
+                                    "name": "Mitigation",
+                                    "code": "811",
+                                    "seqno": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy",
+                            "code": "86",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Energy Efficiency",
+                                    "code": "861",
+                                    "seqno": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Environmental Health and Pollution Management",
+                            "code": "82",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Air quality management",
+                                    "code": "821",
+                                    "seqno": "8"
+                                },
+                                {
+                                    "name": "Soil Pollution",
+                                    "code": "823",
+                                    "seqno": "6"
+                                },
+                                {
+                                    "name": "Water Pollution",
+                                    "code": "822",
+                                    "seqno": "4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Private Sector Development",
+                    "code": "20",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "ICT",
+                            "code": "26",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "ICT Solutions",
+                                    "code": "261",
+                                    "seqno": "14"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Public Sector Management",
+                    "code": "40",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Public Administration",
+                            "code": "43",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Municipal Institution Building",
+                                    "code": "437",
+                                    "seqno": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rule of Law",
+                            "code": "42",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Judicial and other Dispute Resolution Mechanisms",
+                                    "code": "421",
+                                    "seqno": "15"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Social Development and Protection",
+                    "code": "50",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Social Inclusion",
+                            "code": "51",
+                            "seqno": "4",
+                            "theme3": [
+                                {
+                                    "name": "Other Excluded Groups",
+                                    "code": "512",
+                                    "seqno": "7"
+                                },
+                                {
+                                    "name": "Participation and Civic Engagement",
+                                    "code": "513",
+                                    "seqno": "12"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Urban and Rural Development",
+                    "code": "70",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Disaster Risk Management",
+                            "code": "75",
+                            "seqno": "3",
+                            "theme3": [
+                                {
+                                    "name": "Flood and Drought Risk Management",
+                                    "code": "754",
+                                    "seqno": "13"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rural Development",
+                            "code": "72",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Geospatial Services",
+                                    "code": "726",
+                                    "seqno": "9"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Urban Development",
+                            "code": "71",
+                            "seqno": "2",
+                            "theme3": [
+                                {
+                                    "name": "Services and Housing for the Poor",
+                                    "code": "712",
+                                    "seqno": "11"
+                                },
+                                {
+                                    "name": "Urban Infrastructure and Service Delivery",
+                                    "code": "711",
+                                    "seqno": "10"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "P504899": {
+            "id": "P504899",
+            "proj_id": "P504899",
+            "countryshortname": "Brazil",
+            "boardapprovaldate": "2025-03-25T00:00:00Z",
+            "curr_ibrd_commitment": "150000000",
+            "grantamt": "0",
+            "totalamt": "150000000",
+            "regionname": "Latin America And Caribbean",
+            "closingdate": "2030-06-28",
+            "borrower": "Municipality of São Paulo",
+            "impagency": "Municipal Secretariat for Assistance and Social Development",
+            "idacommamt": "0",
+            "status": "Pipeline",
+            "pdo": "To support the social integration of, and access to services for, families and individuals at social risk, and other vulnerable groups, in the municipality of São Paulo.",
+            "project_name": "Strengthening Social Assistance and Service Delivery for Vulnerable Families at Social Risk in the Municipality of São Paulo",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Federative Republic of Brazil",
+            "projectfinancialtype": "IBRD",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "150000000",
+            "esrc_ovrl_risk_rate": "Moderate",
+            "curr_ida_commitment": "0",
+            "theme_list": [
+                {
+                    "name": "Social Development and Protection",
+                    "code": "50",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Social Protection",
+                            "code": "52",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Social Safety Nets",
+                                    "code": "521",
+                                    "seqno": "2"
+                                },
+                                {
+                                    "name": "Social protection delivery systems",
+                                    "code": "523",
+                                    "seqno": "1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "P504897": {
+            "id": "P504897",
+            "proj_id": "P504897",
+            "countryshortname": "Brazil",
+            "boardapprovaldate": "2025-03-25T00:00:00Z",
+            "curr_ibrd_commitment": "120000000",
+            "grantamt": "0",
+            "totalamt": "120000000",
+            "regionname": "Latin America And Caribbean",
+            "closingdate": "2031-06-02",
+            "borrower": "The State Government of Bahia - BA",
+            "impagency": "State Secretariat of Social Assistance and Development",
+            "idacommamt": "0",
+            "status": "Pipeline",
+            "pdo": "To improve socio-productive inclusion services and increase the income of vulnerable self-employed urban workers in the State of Bahia.",
+            "project_name": "Bahia: Supporting Urban Socio-Productive Inclusion Vida Melhor Program",
+            "cons_serv_reqd_ind": "Yes",
+            "countryname": "Federative Republic of Brazil",
+            "projectfinancialtype": "IBRD",
+            "last_stage_reached_name": "CONCEPT REVIEW",
+            "curr_total_commitment": "120000000",
+            "esrc_ovrl_risk_rate": "Moderate",
+            "curr_ida_commitment": "0",
+            "theme_list": [
+                {
+                    "name": "Social Development and Protection",
+                    "code": "50",
+                    "seqno": "0",
+                    "theme2": [
+                        {
+                            "name": "Social Protection",
+                            "code": "52",
+                            "seqno": "0",
+                            "theme3": [
+                                {
+                                    "name": "Social Safety Nets",
+                                    "code": "521",
+                                    "seqno": "2"
+                                },
+                                {
+                                    "name": "Social protection delivery systems",
+                                    "code": "523",
+                                    "seqno": "1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "facets": {
+        "themev2_level1_exact": {
+            "0": {
+                "count": "8226",
+                "name": "Urban and Rural Development",
+                "label": "Urban and Rural Development"
+            },
+            "1": {
+                "count": "7599",
+                "name": "Private Sector Development",
+                "label": "Private Sector Development"
+            },
+            "2": {
+                "count": "7323",
+                "name": "Environment and Natural Resource Management",
+                "label": "Environment and Natural Resource Management"
+            },
+            "3": {
+                "count": "6385",
+                "name": "Human Development and Gender",
+                "label": "Human Development and Gender"
+            },
+            "4": {
+                "count": "6135",
+                "name": "Public Sector Management",
+                "label": "Public Sector Management"
+            },
+            "5": {
+                "count": "4332",
+                "name": "Social Development and Protection",
+                "label": "Social Development and Protection"
+            },
+            "6": {
+                "count": "3823",
+                "name": "Finance",
+                "label": "Finance"
+            },
+            "7": {
+                "count": "2520",
+                "name": "Economic Policy",
+                "label": "Economic Policy"
+            }
+        },
+        "themev2_level2_exact": {
+            "0": {
+                "count": "5636",
+                "name": "Rural Development",
+                "label": "Rural Development"
+            },
+            "1": {
+                "count": "4968",
+                "name": "Public Administration",
+                "label": "Public Administration"
+            },
+            "2": {
+                "count": "4966",
+                "name": "Jobs",
+                "label": "Jobs"
+            },
+            "3": {
+                "count": "4628",
+                "name": "Climate change",
+                "label": "Climate change"
+            },
+            "4": {
+                "count": "3678",
+                "name": "Urban Development",
+                "label": "Urban Development"
+            },
+            "5": {
+                "count": "2638",
+                "name": "Social Inclusion",
+                "label": "Social Inclusion"
+            },
+            "6": {
+                "count": "2558",
+                "name": "Gender",
+                "label": "Gender"
+            },
+            "7": {
+                "count": "2259",
+                "name": "Public Finance Management",
+                "label": "Public Finance Management"
+            },
+            "8": {
+                "count": "2053",
+                "name": "Disaster Risk Management",
+                "label": "Disaster Risk Management"
+            },
+            "9": {
+                "count": "2034",
+                "name": "Health Systems and Policies",
+                "label": "Health Systems and Policies"
+            },
+            "10": {
+                "count": "2001",
+                "name": "Social Protection",
+                "label": "Social Protection"
+            },
+            "11": {
+                "count": "1919",
+                "name": "Business Enabling Environment",
+                "label": "Business Enabling Environment"
+            },
+            "12": {
+                "count": "1868",
+                "name": "Finance for Development",
+                "label": "Finance for Development"
+            },
+            "13": {
+                "count": "1814",
+                "name": "Financial Infrastructure and Access",
+                "label": "Financial Infrastructure and Access"
+            },
+            "14": {
+                "count": "1790",
+                "name": "Education",
+                "label": "Education"
+            },
+            "15": {
+                "count": "1725",
+                "name": "Renewable Natural Resources Asset Management",
+                "label": "Renewable Natural Resources Asset Management"
+            },
+            "16": {
+                "count": "1687",
+                "name": "Environmental Health and Pollution Management",
+                "label": "Environmental Health and Pollution Management"
+            },
+            "17": {
+                "count": "1569",
+                "name": "Disease Control",
+                "label": "Disease Control"
+            },
+            "18": {
+                "count": "1506",
+                "name": "Fiscal Policy",
+                "label": "Fiscal Policy"
+            },
+            "19": {
+                "count": "1406",
+                "name": "Environmental policies and institutions",
+                "label": "Environmental policies and institutions"
+            },
+            "20": {
+                "count": "1281",
+                "name": "Water Resource Management",
+                "label": "Water Resource Management"
+            },
+            "21": {
+                "count": "1184",
+                "name": "Enterprise Development",
+                "label": "Enterprise Development"
+            },
+            "22": {
+                "count": "1184",
+                "name": "Labor Market Policy and Programs",
+                "label": "Labor Market Policy and Programs"
+            },
+            "23": {
+                "count": "1014",
+                "name": "Trade",
+                "label": "Trade"
+            },
+            "24": {
+                "count": "962",
+                "name": "Fragility, Conflict and Violence",
+                "label": "Fragility, Conflict and Violence"
+            },
+            "25": {
+                "count": "918",
+                "name": "ICT",
+                "label": "ICT"
+            },
+            "26": {
+                "count": "914",
+                "name": "Public Private Partnerships",
+                "label": "Public Private Partnerships"
+            },
+            "27": {
+                "count": "907",
+                "name": "Data Development and Capacity Building",
+                "label": "Data Development and Capacity Building"
+            },
+            "28": {
+                "count": "883",
+                "name": "Nutrition and Food Security",
+                "label": "Nutrition and Food Security"
+            },
+            "29": {
+                "count": "811",
+                "name": "Energy",
+                "label": "Energy"
+            },
+            "30": {
+                "count": "762",
+                "name": "Rule of Law",
+                "label": "Rule of Law"
+            },
+            "31": {
+                "count": "614",
+                "name": "Financial Stability",
+                "label": "Financial Stability"
+            },
+            "32": {
+                "count": "493",
+                "name": "Economic Growth and Planning",
+                "label": "Economic Growth and Planning"
+            },
+            "33": {
+                "count": "473",
+                "name": "Macro-financial policies",
+                "label": "Macro-financial policies"
+            },
+            "34": {
+                "count": "459",
+                "name": "Regional Integration",
+                "label": "Regional Integration"
+            },
+            "35": {
+                "count": "225",
+                "name": "Road Safety",
+                "label": "Road Safety"
+            },
+            "36": {
+                "count": "78",
+                "name": "Cultural Heritage",
+                "label": "Cultural Heritage"
+            },
+            "37": {
+                "count": "24",
+                "name": "Demographics and Aging",
+                "label": "Demographics and Aging"
+            }
+        },
+        "themev2_level3_exact": {
+            "0": {
+                "count": "3990",
+                "name": "Rural Infrastructure and service delivery",
+                "label": "Rural Infrastructure and service delivery"
+            },
+            "1": {
+                "count": "3769",
+                "name": "Mitigation",
+                "label": "Mitigation"
+            },
+            "2": {
+                "count": "2945",
+                "name": "Adaptation",
+                "label": "Adaptation"
+            },
+            "3": {
+                "count": "2620",
+                "name": "Urban Infrastructure and Service Delivery",
+                "label": "Urban Infrastructure and Service Delivery"
+            },
+            "4": {
+                "count": "2277",
+                "name": "Job Creation",
+                "label": "Job Creation"
+            },
+            "5": {
+                "count": "2257",
+                "name": "Transparency, Accountability and Good Governance",
+                "label": "Transparency, Accountability and Good Governance"
+            },
+            "6": {
+                "count": "2003",
+                "name": "Participation and Civic Engagement",
+                "label": "Participation and Civic Engagement"
+            },
+            "7": {
+                "count": "1738",
+                "name": "Administrative and Civil Service Reform",
+                "label": "Administrative and Civil Service Reform"
+            },
+            "8": {
+                "count": "1734",
+                "name": "Public Expenditure Management",
+                "label": "Public Expenditure Management"
+            },
+            "9": {
+                "count": "1632",
+                "name": "Social Safety Nets",
+                "label": "Social Safety Nets"
+            },
+            "10": {
+                "count": "1608",
+                "name": "Water Pollution",
+                "label": "Water Pollution"
+            },
+            "11": {
+                "count": "1571",
+                "name": "Air quality management",
+                "label": "Air quality management"
+            },
+            "12": {
+                "count": "1550",
+                "name": "Soil Pollution",
+                "label": "Soil Pollution"
+            },
+            "13": {
+                "count": "1530",
+                "name": "Access to Education",
+                "label": "Access to Education"
+            },
+            "14": {
+                "count": "1437",
+                "name": "Health System Strengthening",
+                "label": "Health System Strengthening"
+            },
+            "15": {
+                "count": "1415",
+                "name": "Municipal Institution Building",
+                "label": "Municipal Institution Building"
+            },
+            "16": {
+                "count": "1401",
+                "name": "Rural Markets",
+                "label": "Rural Markets"
+            },
+            "17": {
+                "count": "1327",
+                "name": "Biodiversity",
+                "label": "Biodiversity"
+            },
+            "18": {
+                "count": "1296",
+                "name": "Land Administration and Management",
+                "label": "Land Administration and Management"
+            },
+            "19": {
+                "count": "1287",
+                "name": "Regulation and Competition Policy",
+                "label": "Regulation and Competition Policy"
+            },
+            "20": {
+                "count": "1240",
+                "name": "Water Institutions, Policies and Reform",
+                "label": "Water Institutions, Policies and Reform"
+            },
+            "21": {
+                "count": "1109",
+                "name": "Education Financing",
+                "label": "Education Financing"
+            },
+            "22": {
+                "count": "1010",
+                "name": "MSME Development",
+                "label": "MSME Development"
+            },
+            "23": {
+                "count": "1008",
+                "name": "Disaster Preparedness",
+                "label": "Disaster Preparedness"
+            },
+            "24": {
+                "count": "966",
+                "name": "State-owned Enterprise Reform and Privatization",
+                "label": "State-owned Enterprise Reform and Privatization"
+            },
+            "25": {
+                "count": "966",
+                "name": "Tax policy",
+                "label": "Tax policy"
+            },
+            "26": {
+                "count": "952",
+                "name": "Disaster Risk Reduction",
+                "label": "Disaster Risk Reduction"
+            },
+            "27": {
+                "count": "933",
+                "name": "Trade Facilitation",
+                "label": "Trade Facilitation"
+            },
+            "28": {
+                "count": "914",
+                "name": "MSME Finance",
+                "label": "MSME Finance"
+            },
+            "29": {
+                "count": "900",
+                "name": "Services and Housing for the Poor",
+                "label": "Services and Housing for the Poor"
+            },
+            "30": {
+                "count": "894",
+                "name": "Flood and Drought Risk Management",
+                "label": "Flood and Drought Risk Management"
+            },
+            "31": {
+                "count": "885",
+                "name": "Credit Infrastructure",
+                "label": "Credit Infrastructure"
+            },
+            "32": {
+                "count": "884",
+                "name": "Pandemic Response",
+                "label": "Pandemic Response"
+            },
+            "33": {
+                "count": "880",
+                "name": "Disaster Response and Recovery",
+                "label": "Disaster Response and Recovery"
+            },
+            "34": {
+                "count": "871",
+                "name": "Agriculture Finance",
+                "label": "Agriculture Finance"
+            },
+            "35": {
+                "count": "868",
+                "name": "ICT Solutions",
+                "label": "ICT Solutions"
+            },
+            "36": {
+                "count": "852",
+                "name": "Data production, accessibility and use",
+                "label": "Data production, accessibility and use"
+            },
+            "37": {
+                "count": "843",
+                "name": "Fiscal sustainability",
+                "label": "Fiscal sustainability"
+            },
+            "38": {
+                "count": "832",
+                "name": "Labor Market Institutions",
+                "label": "Labor Market Institutions"
+            },
+            "39": {
+                "count": "808",
+                "name": "Landscape Management",
+                "label": "Landscape Management"
+            },
+            "40": {
+                "count": "808",
+                "name": "Teachers",
+                "label": "Teachers"
+            },
+            "41": {
+                "count": "765",
+                "name": "Health Service Delivery",
+                "label": "Health Service Delivery"
+            },
+            "42": {
+                "count": "756",
+                "name": "Child Health",
+                "label": "Child Health"
+            },
+            "43": {
+                "count": "739",
+                "name": "Domestic Revenue Administration",
+                "label": "Domestic Revenue Administration"
+            },
+            "44": {
+                "count": "739",
+                "name": "Standards, Curriculum and Textbooks",
+                "label": "Standards, Curriculum and Textbooks"
+            },
+            "45": {
+                "count": "716",
+                "name": "Other Excluded Groups",
+                "label": "Other Excluded Groups"
+            },
+            "46": {
+                "count": "715",
+                "name": "Disaster Risk Finance",
+                "label": "Disaster Risk Finance"
+            },
+            "47": {
+                "count": "715",
+                "name": "Food Security",
+                "label": "Food Security"
+            },
+            "48": {
+                "count": "681",
+                "name": "Active Labor Market Programs",
+                "label": "Active Labor Market Programs"
+            },
+            "49": {
+                "count": "631",
+                "name": "Investment and Business Climate",
+                "label": "Investment and Business Climate"
+            },
+            "50": {
+                "count": "589",
+                "name": "Nutrition",
+                "label": "Nutrition"
+            },
+            "51": {
+                "count": "579",
+                "name": "Legal Institutions for a Market Economy",
+                "label": "Legal Institutions for a Market Economy"
+            },
+            "52": {
+                "count": "569",
+                "name": "Financial Sector oversight and policy/banking regu",
+                "label": "Financial Sector oversight and policy/banking regu"
+            },
+            "53": {
+                "count": "560",
+                "name": "Energy Policies & Reform",
+                "label": "Energy Policies & Reform"
+            },
+            "54": {
+                "count": "545",
+                "name": "Science and Technology",
+                "label": "Science and Technology"
+            },
+            "55": {
+                "count": "531",
+                "name": "Reproductive and Maternal Health",
+                "label": "Reproductive and Maternal Health"
+            },
+            "56": {
+                "count": "526",
+                "name": "Debt Management",
+                "label": "Debt Management"
+            },
+            "57": {
+                "count": "509",
+                "name": "Social protection delivery systems",
+                "label": "Social protection delivery systems"
+            },
+            "58": {
+                "count": "483",
+                "name": "Energy Efficiency",
+                "label": "Energy Efficiency"
+            },
+            "59": {
+                "count": "475",
+                "name": "Post-conflict reconstruction",
+                "label": "Post-conflict reconstruction"
+            },
+            "60": {
+                "count": "471",
+                "name": "Conflict Prevention",
+                "label": "Conflict Prevention"
+            },
+            "61": {
+                "count": "441",
+                "name": "External Finance",
+                "label": "External Finance"
+            },
+            "62": {
+                "count": "435",
+                "name": "Monetary and Credit Policies",
+                "label": "Monetary and Credit Policies"
+            },
+            "63": {
+                "count": "432",
+                "name": "Public Expenditure Policy",
+                "label": "Public Expenditure Policy"
+            },
+            "64": {
+                "count": "422",
+                "name": "Forced Displacement",
+                "label": "Forced Displacement"
+            },
+            "65": {
+                "count": "422",
+                "name": "Personal and Property Rights",
+                "label": "Personal and Property Rights"
+            },
+            "66": {
+                "count": "414",
+                "name": "Macroeconomic Resilience",
+                "label": "Macroeconomic Resilience"
+            },
+            "67": {
+                "count": "410",
+                "name": "Indigenous People and Ethnic Minorities",
+                "label": "Indigenous People and Ethnic Minorities"
+            },
+            "68": {
+                "count": "405",
+                "name": "Youth Employment",
+                "label": "Youth Employment"
+            },
+            "69": {
+                "count": "398",
+                "name": "Judicial and other Dispute Resolution Mechanisms",
+                "label": "Judicial and other Dispute Resolution Mechanisms"
+            },
+            "70": {
+                "count": "385",
+                "name": "Rural Non-farm Income Generation",
+                "label": "Rural Non-farm Income Generation"
+            },
+            "71": {
+                "count": "379",
+                "name": "E-Government, incl. e-services",
+                "label": "E-Government, incl. e-services"
+            },
+            "72": {
+                "count": "376",
+                "name": "Access to Energy",
+                "label": "Access to Energy"
+            },
+            "73": {
+                "count": "344",
+                "name": "Education Governance, School-Based Management",
+                "label": "Education Governance, School-Based Management"
+            },
+            "74": {
+                "count": "339",
+                "name": "Health Finance",
+                "label": "Health Finance"
+            },
+            "75": {
+                "count": "338",
+                "name": "Financial Sector Integrity",
+                "label": "Financial Sector Integrity"
+            },
+            "76": {
+                "count": "328",
+                "name": "Skills Development",
+                "label": "Skills Development"
+            },
+            "77": {
+                "count": "316",
+                "name": "Public Transport",
+                "label": "Public Transport"
+            },
+            "78": {
+                "count": "302",
+                "name": "Adolescent Health",
+                "label": "Adolescent Health"
+            },
+            "79": {
+                "count": "299",
+                "name": "Social Insurance and Pensions",
+                "label": "Social Insurance and Pensions"
+            },
+            "80": {
+                "count": "282",
+                "name": "Municipal Finance",
+                "label": "Municipal Finance"
+            },
+            "81": {
+                "count": "274",
+                "name": "Urban Planning",
+                "label": "Urban Planning"
+            },
+            "82": {
+                "count": "272",
+                "name": "Subnational Fiscal Policies",
+                "label": "Subnational Fiscal Policies"
+            },
+            "83": {
+                "count": "267",
+                "name": "Education Facilities",
+                "label": "Education Facilities"
+            },
+            "84": {
+                "count": "262",
+                "name": "Migration, Remittances and Diaspora Engagement",
+                "label": "Migration, Remittances and Diaspora Engagement"
+            },
+            "85": {
+                "count": "250",
+                "name": "HIV/AIDS",
+                "label": "HIV/AIDS"
+            },
+            "86": {
+                "count": "238",
+                "name": "Urban Water and Sanitation",
+                "label": "Urban Water and Sanitation"
+            },
+            "87": {
+                "count": "236",
+                "name": "Infrastructure Finance",
+                "label": "Infrastructure Finance"
+            },
+            "88": {
+                "count": "232",
+                "name": "Civil Registration and Identification",
+                "label": "Civil Registration and Identification"
+            },
+            "89": {
+                "count": "227",
+                "name": "Entrepreneurship",
+                "label": "Entrepreneurship"
+            },
+            "90": {
+                "count": "225",
+                "name": "Innovation and Technology Policy",
+                "label": "Innovation and Technology Policy"
+            },
+            "91": {
+                "count": "221",
+                "name": "Non-communicable diseases",
+                "label": "Non-communicable diseases"
+            },
+            "92": {
+                "count": "180",
+                "name": "Financial inclusion",
+                "label": "Financial inclusion"
+            },
+            "93": {
+                "count": "180",
+                "name": "Payment & markets infrastructure",
+                "label": "Payment & markets infrastructure"
+            },
+            "94": {
+                "count": "176",
+                "name": "Watershed Management",
+                "label": "Watershed Management"
+            },
+            "95": {
+                "count": "172",
+                "name": "ICT Policies",
+                "label": "ICT Policies"
+            },
+            "96": {
+                "count": "166",
+                "name": "Green Growth",
+                "label": "Green Growth"
+            },
+            "97": {
+                "count": "158",
+                "name": "Student Assessment",
+                "label": "Student Assessment"
+            },
+            "98": {
+                "count": "155",
+                "name": "Forests Policies and institutions",
+                "label": "Forests Policies and institutions"
+            },
+            "99": {
+                "count": "155",
+                "name": "Public Assets and Investment Management",
+                "label": "Public Assets and Investment Management"
+            }
+        },
+        "countryshortname_exact": {
+            "0": {
+                "count": "1081",
+                "name": "India",
+                "label": "India"
+            },
+            "1": {
+                "count": "795",
+                "name": "Indonesia",
+                "label": "Indonesia"
+            },
+            "2": {
+                "count": "791",
+                "name": "Brazil",
+                "label": "Brazil"
+            },
+            "3": {
+                "count": "706",
+                "name": "China",
+                "label": "China"
+            },
+            "4": {
+                "count": "606",
+                "name": "Pakistan",
+                "label": "Pakistan"
+            },
+            "5": {
+                "count": "525",
+                "name": "Bangladesh",
+                "label": "Bangladesh"
+            },
+            "6": {
+                "count": "485",
+                "name": "Mexico",
+                "label": "Mexico"
+            },
+            "7": {
+                "count": "433",
+                "name": "Philippines",
+                "label": "Philippines"
+            },
+            "8": {
+                "count": "422",
+                "name": "Colombia",
+                "label": "Colombia"
+            },
+            "9": {
+                "count": "400",
+                "name": "Turkiye",
+                "label": "Turkiye"
+            },
+            "10": {
+                "count": "373",
+                "name": "Argentina",
+                "label": "Argentina"
+            },
+            "11": {
+                "count": "373",
+                "name": "Nigeria",
+                "label": "Nigeria"
+            },
+            "12": {
+                "count": "363",
+                "name": "Ethiopia",
+                "label": "Ethiopia"
+            },
+            "13": {
+                "count": "361",
+                "name": "Tanzania",
+                "label": "Tanzania"
+            },
+            "14": {
+                "count": "357",
+                "name": "Morocco",
+                "label": "Morocco"
+            },
+            "15": {
+                "count": "355",
+                "name": "Kenya",
+                "label": "Kenya"
+            },
+            "16": {
+                "count": "333",
+                "name": "Ghana",
+                "label": "Ghana"
+            },
+            "17": {
+                "count": "328",
+                "name": "Yemen, Republic of",
+                "label": "Yemen, Republic of"
+            },
+            "18": {
+                "count": "326",
+                "name": "Viet Nam",
+                "label": "Viet Nam"
+            },
+            "19": {
+                "count": "318",
+                "name": "Egypt, Arab Republic of",
+                "label": "Egypt, Arab Republic of"
+            },
+            "20": {
+                "count": "295",
+                "name": "Peru",
+                "label": "Peru"
+            },
+            "21": {
+                "count": "293",
+                "name": "Uganda",
+                "label": "Uganda"
+            },
+            "22": {
+                "count": "290",
+                "name": "Congo, Democratic Republic of",
+                "label": "Congo, Democratic Republic of"
+            },
+            "23": {
+                "count": "284",
+                "name": "Tunisia",
+                "label": "Tunisia"
+            },
+            "24": {
+                "count": "269",
+                "name": "Madagascar",
+                "label": "Madagascar"
+            },
+            "25": {
+                "count": "269",
+                "name": "Nepal",
+                "label": "Nepal"
+            },
+            "26": {
+                "count": "259",
+                "name": "Cote d'Ivoire",
+                "label": "Cote d'Ivoire"
+            },
+            "27": {
+                "count": "259",
+                "name": "Sri Lanka",
+                "label": "Sri Lanka"
+            },
+            "28": {
+                "count": "253",
+                "name": "Senegal",
+                "label": "Senegal"
+            },
+            "29": {
+                "count": "251",
+                "name": "Thailand",
+                "label": "Thailand"
+            },
+            "30": {
+                "count": "240",
+                "name": "Malawi",
+                "label": "Malawi"
+            },
+            "31": {
+                "count": "238",
+                "name": "Mozambique",
+                "label": "Mozambique"
+            },
+            "32": {
+                "count": "234",
+                "name": "Rwanda",
+                "label": "Rwanda"
+            },
+            "33": {
+                "count": "233",
+                "name": "Zambia",
+                "label": "Zambia"
+            },
+            "34": {
+                "count": "231",
+                "name": "Africa",
+                "label": "Africa"
+            },
+            "35": {
+                "count": "230",
+                "name": "Cameroon",
+                "label": "Cameroon"
+            },
+            "36": {
+                "count": "228",
+                "name": "Afghanistan",
+                "label": "Afghanistan"
+            },
+            "37": {
+                "count": "217",
+                "name": "Burkina Faso",
+                "label": "Burkina Faso"
+            },
+            "38": {
+                "count": "211",
+                "name": "Ecuador",
+                "label": "Ecuador"
+            },
+            "39": {
+                "count": "207",
+                "name": "Jordan",
+                "label": "Jordan"
+            },
+            "40": {
+                "count": "206",
+                "name": "Mali",
+                "label": "Mali"
+            },
+            "41": {
+                "count": "204",
+                "name": "Niger",
+                "label": "Niger"
+            },
+            "42": {
+                "count": "201",
+                "name": "Bolivia",
+                "label": "Bolivia"
+            },
+            "43": {
+                "count": "193",
+                "name": "Sierra Leone",
+                "label": "Sierra Leone"
+            },
+            "44": {
+                "count": "190",
+                "name": "Romania",
+                "label": "Romania"
+            },
+            "45": {
+                "count": "185",
+                "name": "Liberia",
+                "label": "Liberia"
+            },
+            "46": {
+                "count": "181",
+                "name": "Haiti",
+                "label": "Haiti"
+            },
+            "47": {
+                "count": "179",
+                "name": "West Bank and Gaza",
+                "label": "West Bank and Gaza"
+            },
+            "48": {
+                "count": "178",
+                "name": "Lao People's Democratic Republic",
+                "label": "Lao People's Democratic Republic"
+            },
+            "49": {
+                "count": "177",
+                "name": "Ukraine",
+                "label": "Ukraine"
+            },
+            "50": {
+                "count": "176",
+                "name": "Honduras",
+                "label": "Honduras"
+            },
+            "51": {
+                "count": "175",
+                "name": "Benin",
+                "label": "Benin"
+            },
+            "52": {
+                "count": "171",
+                "name": "Russian Federation",
+                "label": "Russian Federation"
+            },
+            "53": {
+                "count": "171",
+                "name": "Western and Central Africa",
+                "label": "Western and Central Africa"
+            },
+            "54": {
+                "count": "168",
+                "name": "Burundi",
+                "label": "Burundi"
+            },
+            "55": {
+                "count": "168",
+                "name": "Guinea",
+                "label": "Guinea"
+            },
+            "56": {
+                "count": "163",
+                "name": "Algeria",
+                "label": "Algeria"
+            },
+            "57": {
+                "count": "163",
+                "name": "Nicaragua",
+                "label": "Nicaragua"
+            },
+            "58": {
+                "count": "162",
+                "name": "Chile",
+                "label": "Chile"
+            },
+            "59": {
+                "count": "161",
+                "name": "Sudan",
+                "label": "Sudan"
+            },
+            "60": {
+                "count": "158",
+                "name": "Jamaica",
+                "label": "Jamaica"
+            },
+            "61": {
+                "count": "157",
+                "name": "Kyrgyz Republic",
+                "label": "Kyrgyz Republic"
+            },
+            "62": {
+                "count": "157",
+                "name": "Somalia",
+                "label": "Somalia"
+            },
+            "63": {
+                "count": "157",
+                "name": "Yugoslavia, former",
+                "label": "Yugoslavia, former"
+            },
+            "64": {
+                "count": "155",
+                "name": "Korea, Republic of",
+                "label": "Korea, Republic of"
+            },
+            "65": {
+                "count": "154",
+                "name": "Albania",
+                "label": "Albania"
+            },
+            "66": {
+                "count": "152",
+                "name": "Togo",
+                "label": "Togo"
+            },
+            "67": {
+                "count": "149",
+                "name": "Tajikistan",
+                "label": "Tajikistan"
+            },
+            "68": {
+                "count": "148",
+                "name": "Armenia",
+                "label": "Armenia"
+            },
+            "69": {
+                "count": "147",
+                "name": "Mauritania",
+                "label": "Mauritania"
+            },
+            "70": {
+                "count": "142",
+                "name": "Moldova",
+                "label": "Moldova"
+            },
+            "71": {
+                "count": "141",
+                "name": "Chad",
+                "label": "Chad"
+            },
+            "72": {
+                "count": "138",
+                "name": "Malaysia",
+                "label": "Malaysia"
+            },
+            "73": {
+                "count": "135",
+                "name": "Dominican Republic",
+                "label": "Dominican Republic"
+            },
+            "74": {
+                "count": "135",
+                "name": "Poland",
+                "label": "Poland"
+            },
+            "75": {
+                "count": "135",
+                "name": "World",
+                "label": "World"
+            },
+            "76": {
+                "count": "134",
+                "name": "Lebanon",
+                "label": "Lebanon"
+            },
+            "77": {
+                "count": "133",
+                "name": "Central African Republic",
+                "label": "Central African Republic"
+            },
+            "78": {
+                "count": "133",
+                "name": "Uruguay",
+                "label": "Uruguay"
+            },
+            "79": {
+                "count": "131",
+                "name": "Eastern and Southern Africa",
+                "label": "Eastern and Southern Africa"
+            },
+            "80": {
+                "count": "131",
+                "name": "Paraguay",
+                "label": "Paraguay"
+            },
+            "81": {
+                "count": "129",
+                "name": "Cambodia",
+                "label": "Cambodia"
+            },
+            "82": {
+                "count": "126",
+                "name": "Bosnia and Herzegovina",
+                "label": "Bosnia and Herzegovina"
+            },
+            "83": {
+                "count": "126",
+                "name": "Georgia",
+                "label": "Georgia"
+            },
+            "84": {
+                "count": "125",
+                "name": "Congo, Republic of",
+                "label": "Congo, Republic of"
+            },
+            "85": {
+                "count": "125",
+                "name": "Panama",
+                "label": "Panama"
+            },
+            "86": {
+                "count": "123",
+                "name": "Papua New Guinea",
+                "label": "Papua New Guinea"
+            },
+            "87": {
+                "count": "118",
+                "name": "Uzbekistan",
+                "label": "Uzbekistan"
+            },
+            "88": {
+                "count": "118",
+                "name": "Zimbabwe",
+                "label": "Zimbabwe"
+            },
+            "89": {
+                "count": "116",
+                "name": "Guatemala",
+                "label": "Guatemala"
+            },
+            "90": {
+                "count": "114",
+                "name": "Costa Rica",
+                "label": "Costa Rica"
+            },
+            "91": {
+                "count": "114",
+                "name": "Mongolia",
+                "label": "Mongolia"
+            },
+            "92": {
+                "count": "111",
+                "name": "Venezuela, Republica Bolivariana de",
+                "label": "Venezuela, Republica Bolivariana de"
+            },
+            "93": {
+                "count": "110",
+                "name": "Myanmar",
+                "label": "Myanmar"
+            },
+            "94": {
+                "count": "107",
+                "name": "Gambia, The",
+                "label": "Gambia, The"
+            },
+            "95": {
+                "count": "105",
+                "name": "Kazakhstan",
+                "label": "Kazakhstan"
+            },
+            "96": {
+                "count": "105",
+                "name": "Serbia",
+                "label": "Serbia"
+            },
+            "97": {
+                "count": "102",
+                "name": "Croatia",
+                "label": "Croatia"
+            },
+            "98": {
+                "count": "101",
+                "name": "Guyana",
+                "label": "Guyana"
+            },
+            "99": {
+                "count": "100",
+                "name": "El Salvador",
+                "label": "El Salvador"
+            }
+        },
+        "regionname_exact": {
+            "0": {
+                "count": "5102",
+                "name": "Latin America And Caribbean",
+                "label": "Latin America And Caribbean"
+            },
+            "1": {
+                "count": "4020",
+                "name": "Western And Central Africa",
+                "label": "Western And Central Africa"
+            },
+            "2": {
+                "count": "4004",
+                "name": "East Asia And Pacific",
+                "label": "East Asia And Pacific"
+            },
+            "3": {
+                "count": "3674",
+                "name": "Europe And Central Asia",
+                "label": "Europe And Central Asia"
+            },
+            "4": {
+                "count": "3121",
+                "name": "South Asia",
+                "label": "South Asia"
+            },
+            "5": {
+                "count": "2746",
+                "name": "Eastern And Southern Africa",
+                "label": "Eastern And Southern Africa"
+            },
+            "6": {
+                "count": "2330",
+                "name": "Middle East And North Africa",
+                "label": "Middle East And North Africa"
+            },
+            "7": {
+                "count": "1616",
+                "name": "Eastern and Southern Africa",
+                "label": "Eastern and Southern Africa"
+            },
+            "8": {
+                "count": "246",
+                "name": "Africa",
+                "label": "Africa"
+            },
+            "9": {
+                "count": "143",
+                "name": "Other",
+                "label": "Other"
+            }
+        },
+        "sector_exact": {
+            "0": {
+                "count": "5173",
+                "name": "Central Government (Central Agencies)",
+                "label": "Central Government (Central Agencies)"
+            },
+            "1": {
+                "count": "2984",
+                "name": "Social Protection",
+                "label": "Social Protection"
+            },
+            "2": {
+                "count": "2437",
+                "name": "Sub-National Government",
+                "label": "Sub-National Government"
+            },
+            "3": {
+                "count": "2246",
+                "name": "Health",
+                "label": "Health"
+            },
+            "4": {
+                "count": "1758",
+                "name": "Other Public Administration",
+                "label": "Other Public Administration"
+            },
+            "5": {
+                "count": "1637",
+                "name": "Other Industry, Trade and Services",
+                "label": "Other Industry, Trade and Services"
+            },
+            "6": {
+                "count": "1575",
+                "name": "Other Agriculture, Fishing and Forestry",
+                "label": "Other Agriculture, Fishing and Forestry"
+            },
+            "7": {
+                "count": "1362",
+                "name": "Other Water Supply, Sanitation and Waste Management",
+                "label": "Other Water Supply, Sanitation and Waste Management"
+            },
+            "8": {
+                "count": "1137",
+                "name": "Banking Institutions",
+                "label": "Banking Institutions"
+            },
+            "9": {
+                "count": "1118",
+                "name": "Irrigation and Drainage",
+                "label": "Irrigation and Drainage"
+            },
+            "10": {
+                "count": "1016",
+                "name": "Water Supply",
+                "label": "Water Supply"
+            },
+            "11": {
+                "count": "1001",
+                "name": "Other Energy and Extractives",
+                "label": "Other Energy and Extractives"
+            },
+            "12": {
+                "count": "975",
+                "name": "Agricultural Extension, Research, and Other Support Activities",
+                "label": "Agricultural Extension, Research, and Other Support Activities"
+            },
+            "13": {
+                "count": "949",
+                "name": "Rural and Inter-Urban Roads",
+                "label": "Rural and Inter-Urban Roads"
+            },
+            "14": {
+                "count": "921",
+                "name": "Primary Education",
+                "label": "Primary Education"
+            },
+            "15": {
+                "count": "885",
+                "name": "Other Education",
+                "label": "Other Education"
+            },
+            "16": {
+                "count": "861",
+                "name": "Public Administration - Agriculture, Fishing & Forestry",
+                "label": "Public Administration - Agriculture, Fishing & Forestry"
+            },
+            "17": {
+                "count": "854",
+                "name": "Other Non-bank Financial Institutions",
+                "label": "Other Non-bank Financial Institutions"
+            },
+            "18": {
+                "count": "796",
+                "name": "Public Administration - Social Protection",
+                "label": "Public Administration - Social Protection"
+            },
+            "19": {
+                "count": "790",
+                "name": "Agricultural markets, commercialization and agri-business",
+                "label": "Agricultural markets, commercialization and agri-business"
+            },
+            "20": {
+                "count": "774",
+                "name": "Forestry",
+                "label": "Forestry"
+            },
+            "21": {
+                "count": "765",
+                "name": "Other Transportation",
+                "label": "Other Transportation"
+            },
+            "22": {
+                "count": "743",
+                "name": "Public Administration - Health",
+                "label": "Public Administration - Health"
+            },
+            "23": {
+                "count": "651",
+                "name": "Sanitation",
+                "label": "Sanitation"
+            },
+            "24": {
+                "count": "643",
+                "name": "Secondary Education",
+                "label": "Secondary Education"
+            },
+            "25": {
+                "count": "634",
+                "name": "Roads and highways",
+                "label": "Roads and highways"
+            },
+            "26": {
+                "count": "627",
+                "name": "Tertiary Education",
+                "label": "Tertiary Education"
+            },
+            "27": {
+                "count": "592",
+                "name": "Energy Transmission and Distribution",
+                "label": "Energy Transmission and Distribution"
+            },
+            "28": {
+                "count": "592",
+                "name": "Livestock",
+                "label": "Livestock"
+            },
+            "29": {
+                "count": "580",
+                "name": "Public Administration - Water, Sanitation and Waste Management",
+                "label": "Public Administration - Water, Sanitation and Waste Management"
+            },
+            "30": {
+                "count": "557",
+                "name": "ICT Infrastructure",
+                "label": "ICT Infrastructure"
+            },
+            "31": {
+                "count": "518",
+                "name": "Public Administration - Education",
+                "label": "Public Administration - Education"
+            },
+            "32": {
+                "count": "506",
+                "name": "Public Administration - Transportation",
+                "label": "Public Administration - Transportation"
+            },
+            "33": {
+                "count": "504",
+                "name": "(Historic)Highways",
+                "label": "(Historic)Highways"
+            },
+            "34": {
+                "count": "493",
+                "name": "Public Administration - Energy and Extractives",
+                "label": "Public Administration - Energy and Extractives"
+            },
+            "35": {
+                "count": "471",
+                "name": "Fisheries",
+                "label": "Fisheries"
+            },
+            "36": {
+                "count": "470",
+                "name": "Crops",
+                "label": "Crops"
+            },
+            "37": {
+                "count": "470",
+                "name": "ICT Services",
+                "label": "ICT Services"
+            },
+            "38": {
+                "count": "450",
+                "name": "Workforce Development and Vocational Education",
+                "label": "Workforce Development and Vocational Education"
+            },
+            "39": {
+                "count": "448",
+                "name": "Law and Justice",
+                "label": "Law and Justice"
+            },
+            "40": {
+                "count": "434",
+                "name": "Power",
+                "label": "Power"
+            },
+            "41": {
+                "count": "430",
+                "name": "Renewable Energy Solar",
+                "label": "Renewable Energy Solar"
+            },
+            "42": {
+                "count": "410",
+                "name": "(Historic)Agriculture adjustment",
+                "label": "(Historic)Agriculture adjustment"
+            },
+            "43": {
+                "count": "409",
+                "name": "Ports/Waterways",
+                "label": "Ports/Waterways"
+            },
+            "44": {
+                "count": "378",
+                "name": "Waste Management",
+                "label": "Waste Management"
+            },
+            "45": {
+                "count": "376",
+                "name": "Urban Transport",
+                "label": "Urban Transport"
+            },
+            "46": {
+                "count": "357",
+                "name": "Oil and Gas",
+                "label": "Oil and Gas"
+            },
+            "47": {
+                "count": "350",
+                "name": "Railways",
+                "label": "Railways"
+            },
+            "48": {
+                "count": "338",
+                "name": "Renewable Energy Biomass",
+                "label": "Renewable Energy Biomass"
+            },
+            "49": {
+                "count": "317",
+                "name": "Other Information and Communications Technologies",
+                "label": "Other Information and Communications Technologies"
+            },
+            "50": {
+                "count": "308",
+                "name": "Public Administration - Information and Communications Technologies",
+                "label": "Public Administration - Information and Communications Technologies"
+            },
+            "51": {
+                "count": "289",
+                "name": "(Historic)Financial sector development",
+                "label": "(Historic)Financial sector development"
+            },
+            "52": {
+                "count": "288",
+                "name": "Capital Markets",
+                "label": "Capital Markets"
+            },
+            "53": {
+                "count": "286",
+                "name": "Health Facilities and Construction",
+                "label": "Health Facilities and Construction"
+            },
+            "54": {
+                "count": "283",
+                "name": "Public Administration - Industry, Trade and Services",
+                "label": "Public Administration - Industry, Trade and Services"
+            },
+            "55": {
+                "count": "281",
+                "name": "Early Childhood Education",
+                "label": "Early Childhood Education"
+            },
+            "56": {
+                "count": "267",
+                "name": "Trade",
+                "label": "Trade"
+            },
+            "57": {
+                "count": "247",
+                "name": "Micro- and SME finance",
+                "label": "Micro- and SME finance"
+            },
+            "58": {
+                "count": "229",
+                "name": "Renewable Energy Wind",
+                "label": "Renewable Energy Wind"
+            },
+            "59": {
+                "count": "213",
+                "name": "Renewable Energy Geothermal",
+                "label": "Renewable Energy Geothermal"
+            },
+            "60": {
+                "count": "207",
+                "name": "Mining",
+                "label": "Mining"
+            },
+            "61": {
+                "count": "201",
+                "name": "Insurance and Pension",
+                "label": "Insurance and Pension"
+            },
+            "62": {
+                "count": "197",
+                "name": "Public Administration - Financial Sector",
+                "label": "Public Administration - Financial Sector"
+            },
+            "63": {
+                "count": "194",
+                "name": "(Historic)Urban water supply",
+                "label": "(Historic)Urban water supply"
+            },
+            "64": {
+                "count": "189",
+                "name": "Sewerage",
+                "label": "Sewerage"
+            },
+            "65": {
+                "count": "181",
+                "name": "(Historic)Hydro",
+                "label": "(Historic)Hydro"
+            },
+            "66": {
+                "count": "181",
+                "name": "Renewable Energy Hydro",
+                "label": "Renewable Energy Hydro"
+            },
+            "67": {
+                "count": "178",
+                "name": "Renewable energy",
+                "label": "Renewable energy"
+            },
+            "68": {
+                "count": "176",
+                "name": "(Historic)Economic management",
+                "label": "(Historic)Economic management"
+            },
+            "69": {
+                "count": "165",
+                "name": "Housing Construction",
+                "label": "Housing Construction"
+            },
+            "70": {
+                "count": "155",
+                "name": "(Historic)Distribution and transmission",
+                "label": "(Historic)Distribution and transmission"
+            },
+            "71": {
+                "count": "145",
+                "name": "(Historic)Agricultural credit",
+                "label": "(Historic)Agricultural credit"
+            },
+            "72": {
+                "count": "142",
+                "name": "(Historic)Telecommunications and informatics",
+                "label": "(Historic)Telecommunications and informatics"
+            },
+            "73": {
+                "count": "140",
+                "name": "Aviation",
+                "label": "Aviation"
+            },
+            "74": {
+                "count": "138",
+                "name": "Adult, Basic and Continuing Education",
+                "label": "Adult, Basic and Continuing Education"
+            },
+            "75": {
+                "count": "136",
+                "name": "(Historic)Thermal",
+                "label": "(Historic)Thermal"
+            },
+            "76": {
+                "count": "122",
+                "name": "Agro-industry",
+                "label": "Agro-industry"
+            },
+            "77": {
+                "count": "119",
+                "name": "Vocational training",
+                "label": "Vocational training"
+            },
+            "78": {
+                "count": "115",
+                "name": "Services",
+                "label": "Services"
+            },
+            "79": {
+                "count": "114",
+                "name": "(Historic)Other finance",
+                "label": "(Historic)Other finance"
+            },
+            "80": {
+                "count": "112",
+                "name": "(Historic)Public sector management adjustment",
+                "label": "(Historic)Public sector management adjustment"
+            },
+            "81": {
+                "count": "108",
+                "name": "(Historic)Perennial crops",
+                "label": "(Historic)Perennial crops"
+            },
+            "82": {
+                "count": "103",
+                "name": "(Historic)Other industry",
+                "label": "(Historic)Other industry"
+            },
+            "83": {
+                "count": "99",
+                "name": "Tourism",
+                "label": "Tourism"
+            },
+            "84": {
+                "count": "89",
+                "name": "(Historic)Electric power and other energy adjustment",
+                "label": "(Historic)Electric power and other energy adjustment"
+            },
+            "85": {
+                "count": "74",
+                "name": "(Historic)Other urban development",
+                "label": "(Historic)Other urban development"
+            },
+            "86": {
+                "count": "73",
+                "name": "(Historic)Oil and gas exploration and development",
+                "label": "(Historic)Oil and gas exploration and development"
+            },
+            "87": {
+                "count": "73",
+                "name": "(Historic)Other power and energy conversion",
+                "label": "(Historic)Other power and energy conversion"
+            },
+            "88": {
+                "count": "72",
+                "name": "(Historic)Other agriculture",
+                "label": "(Historic)Other agriculture"
+            },
+            "89": {
+                "count": "66",
+                "name": "(Historic)Urban housing",
+                "label": "(Historic)Urban housing"
+            },
+            "90": {
+                "count": "66",
+                "name": "(Historic)Urban management",
+                "label": "(Historic)Urban management"
+            },
+            "91": {
+                "count": "60",
+                "name": "Non-Renewable Energy Generation",
+                "label": "Non-Renewable Energy Generation"
+            },
+            "92": {
+                "count": "58",
+                "name": "(Historic)Agro-industry and marketing",
+                "label": "(Historic)Agro-industry and marketing"
+            },
+            "93": {
+                "count": "56",
+                "name": "(Historic)Small scale enterprise",
+                "label": "(Historic)Small scale enterprise"
+            },
+            "94": {
+                "count": "55",
+                "name": "(Historic)Fertilizer and other chemicals",
+                "label": "(Historic)Fertilizer and other chemicals"
+            },
+            "95": {
+                "count": "55",
+                "name": "(Historic)Mining and other extractive",
+                "label": "(Historic)Mining and other extractive"
+            },
+            "96": {
+                "count": "53",
+                "name": "(Historic)Industrial adjustment",
+                "label": "(Historic)Industrial adjustment"
+            },
+            "97": {
+                "count": "52",
+                "name": "(Historic)Agricultural extension",
+                "label": "(Historic)Agricultural extension"
+            },
+            "98": {
+                "count": "46",
+                "name": "Other social services",
+                "label": "Other social services"
+            },
+            "99": {
+                "count": "45",
+                "name": "(Historic)Non-sector specific",
+                "label": "(Historic)Non-sector specific"
+            }
+        },
+        "status_exact": {
+            "0": {
+                "count": "17288",
+                "name": "Closed",
+                "label": "Closed"
+            },
+            "1": {
+                "count": "6734",
+                "name": "Dropped",
+                "label": "Dropped"
+            },
+            "2": {
+                "count": "2575",
+                "name": "Active",
+                "label": "Active"
+            },
+            "3": {
+                "count": "405",
+                "name": "Pipeline",
+                "label": "Pipeline"
+            }
+        },
+        "cons_serv_reqd_ind_exact": {
+            "0": {
+                "count": "3260",
+                "name": "Yes",
+                "label": "Yes"
+            },
+            "1": {
+                "count": "960",
+                "name": "TBD",
+                "label": "TBD"
+            },
+            "2": {
+                "count": "848",
+                "name": "No",
+                "label": "No"
+            }
+        },
+        "projectfinancialtype_exact": {
+            "0": {
+                "count": "5545",
+                "name": "IDA",
+                "label": "IDA"
+            },
+            "1": {
+                "count": "4185",
+                "name": "Other",
+                "label": "Other"
+            },
+            "2": {
+                "count": "4048",
+                "name": "IBRD",
+                "label": "IBRD"
+            },
+            "3": {
+                "count": "3203",
+                "name": "Grants",
+                "label": "Grants"
+            }
+        },
+        "esrc_ovrl_risk_rate_exact": {
+            "0": {
+                "count": "731",
+                "name": "Substantial",
+                "label": "Substantial"
+            },
+            "1": {
+                "count": "697",
+                "name": "Moderate",
+                "label": "Moderate"
+            },
+            "2": {
+                "count": "209",
+                "name": "High",
+                "label": "High"
+            },
+            "3": {
+                "count": "208",
+                "name": "Low",
+                "label": "Low"
+            }
+        }
+    }
+}

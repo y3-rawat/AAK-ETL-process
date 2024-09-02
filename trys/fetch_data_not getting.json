@@ -1,0 +1,3860 @@
+{
+    "d": {
+        "__type": "DDPNavigationNew.MemberListJSON",
+        "Levels": [
+            {
+                "LN": 1,
+                "HN": "Countries",
+                "UID": "[WDI_Ctry].[List].\u0026[Countries]",
+                "HID": "2",
+                "LV": []
+            },
+            {
+                "LN": 1,
+                "HN": "Aggregates",
+                "UID": "[WDI_Ctry].[List].\u0026[Aggregates]",
+                "HID": "Aggregates",
+                "LV": []
+            }
+        ],
+        "Members": [
+            {
+                "Code": "AFG",
+                "Name": "Afghanistan",
+                "ParentMember": "A",
+                "ID": "[WDI_Ctry].[List].\u0026[AFG]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SAS",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ALB",
+                "Name": "Albania",
+                "ParentMember": "A",
+                "ID": "[WDI_Ctry].[List].\u0026[ALB]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "DZA",
+                "Name": "Algeria",
+                "ParentMember": "A",
+                "ID": "[WDI_Ctry].[List].\u0026[DZA]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ASM",
+                "Name": "American Samoa",
+                "ParentMember": "A",
+                "ID": "[WDI_Ctry].[List].\u0026[ASM]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "AND",
+                "Name": "Andorra",
+                "ParentMember": "A",
+                "ID": "[WDI_Ctry].[List].\u0026[AND]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "AGO",
+                "Name": "Angola",
+                "ParentMember": "A",
+                "ID": "[WDI_Ctry].[List].\u0026[AGO]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ATG",
+                "Name": "Antigua and Barbuda",
+                "ParentMember": "A",
+                "ID": "[WDI_Ctry].[List].\u0026[ATG]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ARG",
+                "Name": "Argentina",
+                "ParentMember": "A",
+                "ID": "[WDI_Ctry].[List].\u0026[ARG]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ARM",
+                "Name": "Armenia",
+                "ParentMember": "A",
+                "ID": "[WDI_Ctry].[List].\u0026[ARM]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ABW",
+                "Name": "Aruba",
+                "ParentMember": "A",
+                "ID": "[WDI_Ctry].[List].\u0026[ABW]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "AUS",
+                "Name": "Australia",
+                "ParentMember": "A",
+                "ID": "[WDI_Ctry].[List].\u0026[AUS]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "AUT",
+                "Name": "Austria",
+                "ParentMember": "A",
+                "ID": "[WDI_Ctry].[List].\u0026[AUT]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "AZE",
+                "Name": "Azerbaijan",
+                "ParentMember": "A",
+                "ID": "[WDI_Ctry].[List].\u0026[AZE]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BHS",
+                "Name": "Bahamas, The",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BHS]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BHR",
+                "Name": "Bahrain",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BHR]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BGD",
+                "Name": "Bangladesh",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BGD]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SAS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BRB",
+                "Name": "Barbados",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BRB]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BLR",
+                "Name": "Belarus",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BLR]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BEL",
+                "Name": "Belgium",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BEL]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BLZ",
+                "Name": "Belize",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BLZ]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BEN",
+                "Name": "Benin",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BEN]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BMU",
+                "Name": "Bermuda",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BMU]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "NAC",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BTN",
+                "Name": "Bhutan",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BTN]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SAS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BOL",
+                "Name": "Bolivia",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BOL]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "LMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BIH",
+                "Name": "Bosnia and Herzegovina",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BIH]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BWA",
+                "Name": "Botswana",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BWA]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BRA",
+                "Name": "Brazil",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BRA]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "VGB",
+                "Name": "British Virgin Islands",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[VGB]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BRN",
+                "Name": "Brunei Darussalam",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BRN]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BGR",
+                "Name": "Bulgaria",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BGR]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BFA",
+                "Name": "Burkina Faso",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BFA]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "BDI",
+                "Name": "Burundi",
+                "ParentMember": "B",
+                "ID": "[WDI_Ctry].[List].\u0026[BDI]",
+                "JTC": "B",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CPV",
+                "Name": "Cabo Verde",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CPV]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "KHM",
+                "Name": "Cambodia",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[KHM]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CMR",
+                "Name": "Cameroon",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CMR]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CAN",
+                "Name": "Canada",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CAN]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "NAC",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CYM",
+                "Name": "Cayman Islands",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CYM]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CAF",
+                "Name": "Central African Republic",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CAF]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TCD",
+                "Name": "Chad",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[TCD]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CHI",
+                "Name": "Channel Islands",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CHI]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CHL",
+                "Name": "Chile",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CHL]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CHN",
+                "Name": "China",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CHN]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "COL",
+                "Name": "Colombia",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[COL]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "COM",
+                "Name": "Comoros",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[COM]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "COD",
+                "Name": "Congo, Dem. Rep.",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[COD]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "COG",
+                "Name": "Congo, Rep.",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[COG]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CRI",
+                "Name": "Costa Rica",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CRI]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CIV",
+                "Name": "Cote d\u0027Ivoire",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CIV]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "HRV",
+                "Name": "Croatia",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[HRV]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CUB",
+                "Name": "Cuba",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CUB]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CUW",
+                "Name": "Curacao",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CUW]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CYP",
+                "Name": "Cyprus",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CYP]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CZE",
+                "Name": "Czechia",
+                "ParentMember": "C",
+                "ID": "[WDI_Ctry].[List].\u0026[CZE]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "DNK",
+                "Name": "Denmark",
+                "ParentMember": "D",
+                "ID": "[WDI_Ctry].[List].\u0026[DNK]",
+                "JTC": "D",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "DJI",
+                "Name": "Djibouti",
+                "ParentMember": "D",
+                "ID": "[WDI_Ctry].[List].\u0026[DJI]",
+                "JTC": "D",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "DMA",
+                "Name": "Dominica",
+                "ParentMember": "D",
+                "ID": "[WDI_Ctry].[List].\u0026[DMA]",
+                "JTC": "D",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "DOM",
+                "Name": "Dominican Republic",
+                "ParentMember": "D",
+                "ID": "[WDI_Ctry].[List].\u0026[DOM]",
+                "JTC": "D",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ECU",
+                "Name": "Ecuador",
+                "ParentMember": "E",
+                "ID": "[WDI_Ctry].[List].\u0026[ECU]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "EGY",
+                "Name": "Egypt, Arab Rep.",
+                "ParentMember": "E",
+                "ID": "[WDI_Ctry].[List].\u0026[EGY]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "LMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SLV",
+                "Name": "El Salvador",
+                "ParentMember": "E",
+                "ID": "[WDI_Ctry].[List].\u0026[SLV]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GNQ",
+                "Name": "Equatorial Guinea",
+                "ParentMember": "E",
+                "ID": "[WDI_Ctry].[List].\u0026[GNQ]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ERI",
+                "Name": "Eritrea",
+                "ParentMember": "E",
+                "ID": "[WDI_Ctry].[List].\u0026[ERI]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "EST",
+                "Name": "Estonia",
+                "ParentMember": "E",
+                "ID": "[WDI_Ctry].[List].\u0026[EST]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SWZ",
+                "Name": "Eswatini",
+                "ParentMember": "E",
+                "ID": "[WDI_Ctry].[List].\u0026[SWZ]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ETH",
+                "Name": "Ethiopia",
+                "ParentMember": "E",
+                "ID": "[WDI_Ctry].[List].\u0026[ETH]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "FRO",
+                "Name": "Faroe Islands",
+                "ParentMember": "F",
+                "ID": "[WDI_Ctry].[List].\u0026[FRO]",
+                "JTC": "F",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "FJI",
+                "Name": "Fiji",
+                "ParentMember": "F",
+                "ID": "[WDI_Ctry].[List].\u0026[FJI]",
+                "JTC": "F",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "UMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "FIN",
+                "Name": "Finland",
+                "ParentMember": "F",
+                "ID": "[WDI_Ctry].[List].\u0026[FIN]",
+                "JTC": "F",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "FRA",
+                "Name": "France",
+                "ParentMember": "F",
+                "ID": "[WDI_Ctry].[List].\u0026[FRA]",
+                "JTC": "F",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PYF",
+                "Name": "French Polynesia",
+                "ParentMember": "F",
+                "ID": "[WDI_Ctry].[List].\u0026[PYF]",
+                "JTC": "F",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GAB",
+                "Name": "Gabon",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[GAB]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GMB",
+                "Name": "Gambia, The",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[GMB]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GEO",
+                "Name": "Georgia",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[GEO]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "DEU",
+                "Name": "Germany",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[DEU]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GHA",
+                "Name": "Ghana",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[GHA]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GIB",
+                "Name": "Gibraltar",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[GIB]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GRC",
+                "Name": "Greece",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[GRC]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GRL",
+                "Name": "Greenland",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[GRL]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GRD",
+                "Name": "Grenada",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[GRD]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GUM",
+                "Name": "Guam",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[GUM]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GTM",
+                "Name": "Guatemala",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[GTM]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GIN",
+                "Name": "Guinea",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[GIN]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GNB",
+                "Name": "Guinea-Bissau",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[GNB]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GUY",
+                "Name": "Guyana",
+                "ParentMember": "G",
+                "ID": "[WDI_Ctry].[List].\u0026[GUY]",
+                "JTC": "G",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "HTI",
+                "Name": "Haiti",
+                "ParentMember": "H",
+                "ID": "[WDI_Ctry].[List].\u0026[HTI]",
+                "JTC": "H",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "HND",
+                "Name": "Honduras",
+                "ParentMember": "H",
+                "ID": "[WDI_Ctry].[List].\u0026[HND]",
+                "JTC": "H",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "HKG",
+                "Name": "Hong Kong SAR, China",
+                "ParentMember": "H",
+                "ID": "[WDI_Ctry].[List].\u0026[HKG]",
+                "JTC": "H",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "HUN",
+                "Name": "Hungary",
+                "ParentMember": "H",
+                "ID": "[WDI_Ctry].[List].\u0026[HUN]",
+                "JTC": "H",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ISL",
+                "Name": "Iceland",
+                "ParentMember": "I",
+                "ID": "[WDI_Ctry].[List].\u0026[ISL]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "IND",
+                "Name": "India",
+                "ParentMember": "I",
+                "ID": "[WDI_Ctry].[List].\u0026[IND]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SAS",
+                    "LMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "IDN",
+                "Name": "Indonesia",
+                "ParentMember": "I",
+                "ID": "[WDI_Ctry].[List].\u0026[IDN]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "IRN",
+                "Name": "Iran, Islamic Rep.",
+                "ParentMember": "I",
+                "ID": "[WDI_Ctry].[List].\u0026[IRN]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "IRQ",
+                "Name": "Iraq",
+                "ParentMember": "I",
+                "ID": "[WDI_Ctry].[List].\u0026[IRQ]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "IRL",
+                "Name": "Ireland",
+                "ParentMember": "I",
+                "ID": "[WDI_Ctry].[List].\u0026[IRL]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "IMN",
+                "Name": "Isle of Man",
+                "ParentMember": "I",
+                "ID": "[WDI_Ctry].[List].\u0026[IMN]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ISR",
+                "Name": "Israel",
+                "ParentMember": "I",
+                "ID": "[WDI_Ctry].[List].\u0026[ISR]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ITA",
+                "Name": "Italy",
+                "ParentMember": "I",
+                "ID": "[WDI_Ctry].[List].\u0026[ITA]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "JAM",
+                "Name": "Jamaica",
+                "ParentMember": "J",
+                "ID": "[WDI_Ctry].[List].\u0026[JAM]",
+                "JTC": "J",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "JPN",
+                "Name": "Japan",
+                "ParentMember": "J",
+                "ID": "[WDI_Ctry].[List].\u0026[JPN]",
+                "JTC": "J",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "JOR",
+                "Name": "Jordan",
+                "ParentMember": "J",
+                "ID": "[WDI_Ctry].[List].\u0026[JOR]",
+                "JTC": "J",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "LMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "KAZ",
+                "Name": "Kazakhstan",
+                "ParentMember": "K",
+                "ID": "[WDI_Ctry].[List].\u0026[KAZ]",
+                "JTC": "K",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "KEN",
+                "Name": "Kenya",
+                "ParentMember": "K",
+                "ID": "[WDI_Ctry].[List].\u0026[KEN]",
+                "JTC": "K",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "KIR",
+                "Name": "Kiribati",
+                "ParentMember": "K",
+                "ID": "[WDI_Ctry].[List].\u0026[KIR]",
+                "JTC": "K",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PRK",
+                "Name": "Korea, Dem. People\u0027s Rep.",
+                "ParentMember": "K",
+                "ID": "[WDI_Ctry].[List].\u0026[PRK]",
+                "JTC": "K",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "LIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "KOR",
+                "Name": "Korea, Rep.",
+                "ParentMember": "K",
+                "ID": "[WDI_Ctry].[List].\u0026[KOR]",
+                "JTC": "K",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "XKX",
+                "Name": "Kosovo",
+                "ParentMember": "K",
+                "ID": "[WDI_Ctry].[List].\u0026[XKX]",
+                "JTC": "K",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "KWT",
+                "Name": "Kuwait",
+                "ParentMember": "K",
+                "ID": "[WDI_Ctry].[List].\u0026[KWT]",
+                "JTC": "K",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "KGZ",
+                "Name": "Kyrgyz Republic",
+                "ParentMember": "K",
+                "ID": "[WDI_Ctry].[List].\u0026[KGZ]",
+                "JTC": "K",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LAO",
+                "Name": "Lao PDR",
+                "ParentMember": "L",
+                "ID": "[WDI_Ctry].[List].\u0026[LAO]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LVA",
+                "Name": "Latvia",
+                "ParentMember": "L",
+                "ID": "[WDI_Ctry].[List].\u0026[LVA]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LBN",
+                "Name": "Lebanon",
+                "ParentMember": "L",
+                "ID": "[WDI_Ctry].[List].\u0026[LBN]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "LMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LSO",
+                "Name": "Lesotho",
+                "ParentMember": "L",
+                "ID": "[WDI_Ctry].[List].\u0026[LSO]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LBR",
+                "Name": "Liberia",
+                "ParentMember": "L",
+                "ID": "[WDI_Ctry].[List].\u0026[LBR]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LBY",
+                "Name": "Libya",
+                "ParentMember": "L",
+                "ID": "[WDI_Ctry].[List].\u0026[LBY]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LIE",
+                "Name": "Liechtenstein",
+                "ParentMember": "L",
+                "ID": "[WDI_Ctry].[List].\u0026[LIE]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LTU",
+                "Name": "Lithuania",
+                "ParentMember": "L",
+                "ID": "[WDI_Ctry].[List].\u0026[LTU]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LUX",
+                "Name": "Luxembourg",
+                "ParentMember": "L",
+                "ID": "[WDI_Ctry].[List].\u0026[LUX]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MAC",
+                "Name": "Macao SAR, China",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MAC]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MDG",
+                "Name": "Madagascar",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MDG]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MWI",
+                "Name": "Malawi",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MWI]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MYS",
+                "Name": "Malaysia",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MYS]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MDV",
+                "Name": "Maldives",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MDV]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SAS",
+                    "UMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MLI",
+                "Name": "Mali",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MLI]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MLT",
+                "Name": "Malta",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MLT]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MHL",
+                "Name": "Marshall Islands",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MHL]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "UMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MRT",
+                "Name": "Mauritania",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MRT]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MUS",
+                "Name": "Mauritius",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MUS]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MEX",
+                "Name": "Mexico",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MEX]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "FSM",
+                "Name": "Micronesia, Fed. Sts.",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[FSM]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MDA",
+                "Name": "Moldova",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MDA]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MCO",
+                "Name": "Monaco",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MCO]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MNG",
+                "Name": "Mongolia",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MNG]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MNE",
+                "Name": "Montenegro",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MNE]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MAR",
+                "Name": "Morocco",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MAR]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "LMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MOZ",
+                "Name": "Mozambique",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MOZ]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MMR",
+                "Name": "Myanmar",
+                "ParentMember": "M",
+                "ID": "[WDI_Ctry].[List].\u0026[MMR]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "NAM",
+                "Name": "Namibia",
+                "ParentMember": "N",
+                "ID": "[WDI_Ctry].[List].\u0026[NAM]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "NRU",
+                "Name": "Nauru",
+                "ParentMember": "N",
+                "ID": "[WDI_Ctry].[List].\u0026[NRU]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "NPL",
+                "Name": "Nepal",
+                "ParentMember": "N",
+                "ID": "[WDI_Ctry].[List].\u0026[NPL]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SAS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "NLD",
+                "Name": "Netherlands",
+                "ParentMember": "N",
+                "ID": "[WDI_Ctry].[List].\u0026[NLD]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "NCL",
+                "Name": "New Caledonia",
+                "ParentMember": "N",
+                "ID": "[WDI_Ctry].[List].\u0026[NCL]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "NZL",
+                "Name": "New Zealand",
+                "ParentMember": "N",
+                "ID": "[WDI_Ctry].[List].\u0026[NZL]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "NIC",
+                "Name": "Nicaragua",
+                "ParentMember": "N",
+                "ID": "[WDI_Ctry].[List].\u0026[NIC]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "NER",
+                "Name": "Niger",
+                "ParentMember": "N",
+                "ID": "[WDI_Ctry].[List].\u0026[NER]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "NGA",
+                "Name": "Nigeria",
+                "ParentMember": "N",
+                "ID": "[WDI_Ctry].[List].\u0026[NGA]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MKD",
+                "Name": "North Macedonia",
+                "ParentMember": "N",
+                "ID": "[WDI_Ctry].[List].\u0026[MKD]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MNP",
+                "Name": "Northern Mariana Islands",
+                "ParentMember": "N",
+                "ID": "[WDI_Ctry].[List].\u0026[MNP]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "NOR",
+                "Name": "Norway",
+                "ParentMember": "N",
+                "ID": "[WDI_Ctry].[List].\u0026[NOR]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "OMN",
+                "Name": "Oman",
+                "ParentMember": "O",
+                "ID": "[WDI_Ctry].[List].\u0026[OMN]",
+                "JTC": "O",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PAK",
+                "Name": "Pakistan",
+                "ParentMember": "P",
+                "ID": "[WDI_Ctry].[List].\u0026[PAK]",
+                "JTC": "P",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SAS",
+                    "LMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PLW",
+                "Name": "Palau",
+                "ParentMember": "P",
+                "ID": "[WDI_Ctry].[List].\u0026[PLW]",
+                "JTC": "P",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PAN",
+                "Name": "Panama",
+                "ParentMember": "P",
+                "ID": "[WDI_Ctry].[List].\u0026[PAN]",
+                "JTC": "P",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PNG",
+                "Name": "Papua New Guinea",
+                "ParentMember": "P",
+                "ID": "[WDI_Ctry].[List].\u0026[PNG]",
+                "JTC": "P",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "LMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PRY",
+                "Name": "Paraguay",
+                "ParentMember": "P",
+                "ID": "[WDI_Ctry].[List].\u0026[PRY]",
+                "JTC": "P",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PER",
+                "Name": "Peru",
+                "ParentMember": "P",
+                "ID": "[WDI_Ctry].[List].\u0026[PER]",
+                "JTC": "P",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PHL",
+                "Name": "Philippines",
+                "ParentMember": "P",
+                "ID": "[WDI_Ctry].[List].\u0026[PHL]",
+                "JTC": "P",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "LMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "POL",
+                "Name": "Poland",
+                "ParentMember": "P",
+                "ID": "[WDI_Ctry].[List].\u0026[POL]",
+                "JTC": "P",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PRT",
+                "Name": "Portugal",
+                "ParentMember": "P",
+                "ID": "[WDI_Ctry].[List].\u0026[PRT]",
+                "JTC": "P",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PRI",
+                "Name": "Puerto Rico",
+                "ParentMember": "P",
+                "ID": "[WDI_Ctry].[List].\u0026[PRI]",
+                "JTC": "P",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "QAT",
+                "Name": "Qatar",
+                "ParentMember": "Q",
+                "ID": "[WDI_Ctry].[List].\u0026[QAT]",
+                "JTC": "Q",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ROU",
+                "Name": "Romania",
+                "ParentMember": "R",
+                "ID": "[WDI_Ctry].[List].\u0026[ROU]",
+                "JTC": "R",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "RUS",
+                "Name": "Russian Federation",
+                "ParentMember": "R",
+                "ID": "[WDI_Ctry].[List].\u0026[RUS]",
+                "JTC": "R",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "RWA",
+                "Name": "Rwanda",
+                "ParentMember": "R",
+                "ID": "[WDI_Ctry].[List].\u0026[RWA]",
+                "JTC": "R",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "WSM",
+                "Name": "Samoa",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[WSM]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SMR",
+                "Name": "San Marino",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SMR]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "STP",
+                "Name": "Sao Tome and Principe",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[STP]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SAU",
+                "Name": "Saudi Arabia",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SAU]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SEN",
+                "Name": "Senegal",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SEN]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SRB",
+                "Name": "Serbia",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SRB]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SYC",
+                "Name": "Seychelles",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SYC]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SLE",
+                "Name": "Sierra Leone",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SLE]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SGP",
+                "Name": "Singapore",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SGP]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SXM",
+                "Name": "Sint Maarten (Dutch part)",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SXM]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SVK",
+                "Name": "Slovak Republic",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SVK]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SVN",
+                "Name": "Slovenia",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SVN]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SLB",
+                "Name": "Solomon Islands",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SLB]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SOM",
+                "Name": "Somalia",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SOM]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ZAF",
+                "Name": "South Africa",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[ZAF]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SSD",
+                "Name": "South Sudan",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SSD]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ESP",
+                "Name": "Spain",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[ESP]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LKA",
+                "Name": "Sri Lanka",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[LKA]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SAS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "KNA",
+                "Name": "St. Kitts and Nevis",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[KNA]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LCA",
+                "Name": "St. Lucia",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[LCA]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MAF",
+                "Name": "St. Martin (French part)",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[MAF]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "VCT",
+                "Name": "St. Vincent and the Grenadines",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[VCT]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SDN",
+                "Name": "Sudan",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SDN]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SUR",
+                "Name": "Suriname",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SUR]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SWE",
+                "Name": "Sweden",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SWE]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CHE",
+                "Name": "Switzerland",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[CHE]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SYR",
+                "Name": "Syrian Arab Republic",
+                "ParentMember": "S",
+                "ID": "[WDI_Ctry].[List].\u0026[SYR]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TJK",
+                "Name": "Tajikistan",
+                "ParentMember": "T",
+                "ID": "[WDI_Ctry].[List].\u0026[TJK]",
+                "JTC": "T",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TZA",
+                "Name": "Tanzania",
+                "ParentMember": "T",
+                "ID": "[WDI_Ctry].[List].\u0026[TZA]",
+                "JTC": "T",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "THA",
+                "Name": "Thailand",
+                "ParentMember": "T",
+                "ID": "[WDI_Ctry].[List].\u0026[THA]",
+                "JTC": "T",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TLS",
+                "Name": "Timor-Leste",
+                "ParentMember": "T",
+                "ID": "[WDI_Ctry].[List].\u0026[TLS]",
+                "JTC": "T",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "LMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TGO",
+                "Name": "Togo",
+                "ParentMember": "T",
+                "ID": "[WDI_Ctry].[List].\u0026[TGO]",
+                "JTC": "T",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TON",
+                "Name": "Tonga",
+                "ParentMember": "T",
+                "ID": "[WDI_Ctry].[List].\u0026[TON]",
+                "JTC": "T",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "UMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TTO",
+                "Name": "Trinidad and Tobago",
+                "ParentMember": "T",
+                "ID": "[WDI_Ctry].[List].\u0026[TTO]",
+                "JTC": "T",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TUN",
+                "Name": "Tunisia",
+                "ParentMember": "T",
+                "ID": "[WDI_Ctry].[List].\u0026[TUN]",
+                "JTC": "T",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "LMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TUR",
+                "Name": "Turkiye",
+                "ParentMember": "T",
+                "ID": "[WDI_Ctry].[List].\u0026[TUR]",
+                "JTC": "T",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TKM",
+                "Name": "Turkmenistan",
+                "ParentMember": "T",
+                "ID": "[WDI_Ctry].[List].\u0026[TKM]",
+                "JTC": "T",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TCA",
+                "Name": "Turks and Caicos Islands",
+                "ParentMember": "T",
+                "ID": "[WDI_Ctry].[List].\u0026[TCA]",
+                "JTC": "T",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TUV",
+                "Name": "Tuvalu",
+                "ParentMember": "T",
+                "ID": "[WDI_Ctry].[List].\u0026[TUV]",
+                "JTC": "T",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "UMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "UGA",
+                "Name": "Uganda",
+                "ParentMember": "U",
+                "ID": "[WDI_Ctry].[List].\u0026[UGA]",
+                "JTC": "U",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "UKR",
+                "Name": "Ukraine",
+                "ParentMember": "U",
+                "ID": "[WDI_Ctry].[List].\u0026[UKR]",
+                "JTC": "U",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "UMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ARE",
+                "Name": "United Arab Emirates",
+                "ParentMember": "U",
+                "ID": "[WDI_Ctry].[List].\u0026[ARE]",
+                "JTC": "U",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "GBR",
+                "Name": "United Kingdom",
+                "ParentMember": "U",
+                "ID": "[WDI_Ctry].[List].\u0026[GBR]",
+                "JTC": "U",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "USA",
+                "Name": "United States",
+                "ParentMember": "U",
+                "ID": "[WDI_Ctry].[List].\u0026[USA]",
+                "JTC": "U",
+                "ParentDimMember": null,
+                "HLS": [
+                    "NAC",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "URY",
+                "Name": "Uruguay",
+                "ParentMember": "U",
+                "ID": "[WDI_Ctry].[List].\u0026[URY]",
+                "JTC": "U",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "UZB",
+                "Name": "Uzbekistan",
+                "ParentMember": "U",
+                "ID": "[WDI_Ctry].[List].\u0026[UZB]",
+                "JTC": "U",
+                "ParentDimMember": null,
+                "HLS": [
+                    "ECS",
+                    "LMC",
+                    "IDB"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "VUT",
+                "Name": "Vanuatu",
+                "ParentMember": "V",
+                "ID": "[WDI_Ctry].[List].\u0026[VUT]",
+                "JTC": "V",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "VEN",
+                "Name": "Venezuela, RB",
+                "ParentMember": "V",
+                "ID": "[WDI_Ctry].[List].\u0026[VEN]",
+                "JTC": "V",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "INX",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "VNM",
+                "Name": "Viet Nam",
+                "ParentMember": "V",
+                "ID": "[WDI_Ctry].[List].\u0026[VNM]",
+                "JTC": "V",
+                "ParentDimMember": null,
+                "HLS": [
+                    "EAS",
+                    "LMC",
+                    "IBD"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "VIR",
+                "Name": "Virgin Islands (U.S.)",
+                "ParentMember": "V",
+                "ID": "[WDI_Ctry].[List].\u0026[VIR]",
+                "JTC": "V",
+                "ParentDimMember": null,
+                "HLS": [
+                    "LCN",
+                    "HIC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PSE",
+                "Name": "West Bank and Gaza",
+                "ParentMember": "W",
+                "ID": "[WDI_Ctry].[List].\u0026[PSE]",
+                "JTC": "W",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "LMC",
+                    "LNX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "YEM",
+                "Name": "Yemen, Rep.",
+                "ParentMember": "Y",
+                "ID": "[WDI_Ctry].[List].\u0026[YEM]",
+                "JTC": "Y",
+                "ParentDimMember": null,
+                "HLS": [
+                    "MEA",
+                    "LIC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ZMB",
+                "Name": "Zambia",
+                "ParentMember": "Z",
+                "ID": "[WDI_Ctry].[List].\u0026[ZMB]",
+                "JTC": "Z",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDX"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ZWE",
+                "Name": "Zimbabwe",
+                "ParentMember": "Z",
+                "ID": "[WDI_Ctry].[List].\u0026[ZWE]",
+                "JTC": "Z",
+                "ParentDimMember": null,
+                "HLS": [
+                    "SSF",
+                    "LMC",
+                    "IDB"
+                ],
+                "SM": true
+            }
+        ],
+        "JTL": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M",
+            "N",
+            "O",
+            "P",
+            "Q",
+            "R",
+            "S",
+            "T",
+            "U",
+            "V",
+            "W",
+            "Y",
+            "Z"
+        ],
+        "DT": "C",
+        "AutoSelect": false,
+        "Aggr": [
+            {
+                "Code": "AFE",
+                "Name": "Africa Eastern and Southern",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[AFE]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "AFW",
+                "Name": "Africa Western and Central",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[AFW]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ARB",
+                "Name": "Arab World",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[ARB]",
+                "JTC": "A",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CSS",
+                "Name": "Caribbean small states",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[CSS]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "CEB",
+                "Name": "Central Europe and the Baltics",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[CEB]",
+                "JTC": "C",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "EAR",
+                "Name": "Early-demographic dividend",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[EAR]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "EAS",
+                "Name": "East Asia \u0026 Pacific",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[EAS]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "EAP",
+                "Name": "East Asia \u0026 Pacific (excluding high income)",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[EAP]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TEA",
+                "Name": "East Asia \u0026 Pacific (IDA \u0026 IBRD countries)",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[TEA]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "EMU",
+                "Name": "Euro area",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[EMU]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ECS",
+                "Name": "Europe \u0026 Central Asia",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[ECS]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "ECA",
+                "Name": "Europe \u0026 Central Asia (excluding high income)",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[ECA]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TEC",
+                "Name": "Europe \u0026 Central Asia (IDA \u0026 IBRD countries)",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[TEC]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "EUU",
+                "Name": "European Union",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[EUU]",
+                "JTC": "E",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "FCS",
+                "Name": "Fragile and conflict affected situations",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[FCS]",
+                "JTC": "F",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "HPC",
+                "Name": "Heavily indebted poor countries (HIPC)",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[HPC]",
+                "JTC": "H",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "HIC",
+                "Name": "High income",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[HIC]",
+                "JTC": "H",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "IBD",
+                "Name": "IBRD only",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[IBD]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "IBT",
+                "Name": "IDA \u0026 IBRD total",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[IBT]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "IDB",
+                "Name": "IDA blend",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[IDB]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "IDX",
+                "Name": "IDA only",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[IDX]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "IDA",
+                "Name": "IDA total",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[IDA]",
+                "JTC": "I",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LTE",
+                "Name": "Late-demographic dividend",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[LTE]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LCN",
+                "Name": "Latin America \u0026 Caribbean",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[LCN]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LAC",
+                "Name": "Latin America \u0026 Caribbean (excluding high income)",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[LAC]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TLA",
+                "Name": "Latin America \u0026 the Caribbean (IDA \u0026 IBRD countries)",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[TLA]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LDC",
+                "Name": "Least developed countries: UN classification",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[LDC]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LMY",
+                "Name": "Low \u0026 middle income",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[LMY]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LIC",
+                "Name": "Low income",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[LIC]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "LMC",
+                "Name": "Lower middle income",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[LMC]",
+                "JTC": "L",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MEA",
+                "Name": "Middle East \u0026 North Africa",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[MEA]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MNA",
+                "Name": "Middle East \u0026 North Africa (excluding high income)",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[MNA]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TMN",
+                "Name": "Middle East \u0026 North Africa (IDA \u0026 IBRD countries)",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[TMN]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "MIC",
+                "Name": "Middle income",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[MIC]",
+                "JTC": "M",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "NAC",
+                "Name": "North America",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[NAC]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "INX",
+                "Name": "Not classified",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[INX]",
+                "JTC": "N",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": false
+            },
+            {
+                "Code": "OED",
+                "Name": "OECD members",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[OED]",
+                "JTC": "O",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "OSS",
+                "Name": "Other small states",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[OSS]",
+                "JTC": "O",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PSS",
+                "Name": "Pacific island small states",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[PSS]",
+                "JTC": "P",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PST",
+                "Name": "Post-demographic dividend",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[PST]",
+                "JTC": "P",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "PRE",
+                "Name": "Pre-demographic dividend",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[PRE]",
+                "JTC": "P",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SST",
+                "Name": "Small states",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[SST]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SAS",
+                "Name": "South Asia",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[SAS]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TSA",
+                "Name": "South Asia (IDA \u0026 IBRD)",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[TSA]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SSF",
+                "Name": "Sub-Saharan Africa",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[SSF]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "SSA",
+                "Name": "Sub-Saharan Africa (excluding high income)",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[SSA]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "TSS",
+                "Name": "Sub-Saharan Africa (IDA \u0026 IBRD countries)",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[TSS]",
+                "JTC": "S",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "UMC",
+                "Name": "Upper middle income",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[UMC]",
+                "JTC": "U",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            },
+            {
+                "Code": "WLD",
+                "Name": "World",
+                "ParentMember": "NA",
+                "ID": "[WDI_Ctry].[List].\u0026[WLD]",
+                "JTC": "W",
+                "ParentDimMember": null,
+                "HLS": [
+                    "[WDI_Ctry].[List].\u0026[Aggregates]"
+                ],
+                "SM": true
+            }
+        ],
+        "JTLA": [
+            "A",
+            "C",
+            "E",
+            "F",
+            "H",
+            "I",
+            "L",
+            "M",
+            "N",
+            "O",
+            "P",
+            "S",
+            "U",
+            "W"
+        ],
+        "DH": "[WDI_Ctry].[List]",
+        "CL": true,
+        "Hier": {
+            "[WDI_Ctry].[Income]": "Income",
+            "[WDI_Ctry].[Lending]": "Lending",
+            "[WDI_Ctry].[List]": "List",
+            "[WDI_Ctry].[Region]": "Region"
+        },
+        "CHL": [
+            {
+                "LN": 1,
+                "HN": "Region",
+                "UID": "Region",
+                "HID": "Region",
+                "LV": [
+                    {
+                        "LN": 2,
+                        "HN": "South Asia",
+                        "UID": "SAS",
+                        "HID": "SAS",
+                        "LV": []
+                    },
+                    {
+                        "LN": 2,
+                        "HN": "Europe \u0026 Central Asia",
+                        "UID": "ECS",
+                        "HID": "ECS",
+                        "LV": []
+                    },
+                    {
+                        "LN": 2,
+                        "HN": "Middle East \u0026 North Africa",
+                        "UID": "MEA",
+                        "HID": "MEA",
+                        "LV": []
+                    },
+                    {
+                        "LN": 2,
+                        "HN": "East Asia \u0026 Pacific",
+                        "UID": "EAS",
+                        "HID": "EAS",
+                        "LV": []
+                    },
+                    {
+                        "LN": 2,
+                        "HN": "Sub-Saharan Africa",
+                        "UID": "SSF",
+                        "HID": "SSF",
+                        "LV": []
+                    },
+                    {
+                        "LN": 2,
+                        "HN": "Latin America \u0026 Caribbean",
+                        "UID": "LCN",
+                        "HID": "LCN",
+                        "LV": []
+                    },
+                    {
+                        "LN": 2,
+                        "HN": "North America",
+                        "UID": "NAC",
+                        "HID": "NAC",
+                        "LV": []
+                    }
+                ]
+            },
+            {
+                "LN": 1,
+                "HN": "Income",
+                "UID": "Income",
+                "HID": "Income",
+                "LV": [
+                    {
+                        "LN": 2,
+                        "HN": "Low income",
+                        "UID": "LIC",
+                        "HID": "LIC",
+                        "LV": []
+                    },
+                    {
+                        "LN": 2,
+                        "HN": "Upper middle income",
+                        "UID": "UMC",
+                        "HID": "UMC",
+                        "LV": []
+                    },
+                    {
+                        "LN": 2,
+                        "HN": "High income",
+                        "UID": "HIC",
+                        "HID": "HIC",
+                        "LV": []
+                    },
+                    {
+                        "LN": 2,
+                        "HN": "Lower middle income",
+                        "UID": "LMC",
+                        "HID": "LMC",
+                        "LV": []
+                    },
+                    {
+                        "LN": 2,
+                        "HN": "Not classified",
+                        "UID": "INX",
+                        "HID": "INX",
+                        "LV": []
+                    }
+                ]
+            },
+            {
+                "LN": 1,
+                "HN": "Lending",
+                "UID": "Lending",
+                "HID": "Lending",
+                "LV": [
+                    {
+                        "LN": 2,
+                        "HN": "IDA",
+                        "UID": "IDX",
+                        "HID": "IDX",
+                        "LV": []
+                    },
+                    {
+                        "LN": 2,
+                        "HN": "IBRD",
+                        "UID": "IBD",
+                        "HID": "IBD",
+                        "LV": []
+                    },
+                    {
+                        "LN": 2,
+                        "HN": "Not classified",
+                        "UID": "LNX",
+                        "HID": "LNX",
+                        "LV": []
+                    },
+                    {
+                        "LN": 2,
+                        "HN": "Blend",
+                        "UID": "IDB",
+                        "HID": "IDB",
+                        "LV": []
+                    }
+                ]
+            }
+        ],
+        "Sel": {
+            "[WDI_Ctry].[List].\u0026[AFG]": {
+                "displayname": "Afghanistan",
+                "custom": false,
+                "customdefinition": null,
+                "AggregationRule": null,
+                "MemberType": ""
+            }
+        },
+        "ARA": null,
+        "HighFrequencyEnabled": false,
+        "SubNationalEnabled": false,
+        "DimensionType": "C",
+        "HighFrequencyMembers": null,
+        "LevelNames": null,
+        "LevelCount": null,
+        "Parentdimension": null,
+        "HasDimensionFiltering": false
+    }
+}
