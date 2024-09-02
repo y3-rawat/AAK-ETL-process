@@ -9,3 +9,4 @@ This project provides an API to fetch country data from the World Bank API using
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Run the FastAPI application: `uvicorn app:app --reload`
 5. Access the API documentation at `http://127.0.0.1:8000/docs`
+6. [Challenge.md](https://github.com/y3-rawat/AAK_data_engineer_challenge/blob/main/challenge.md): Additional notes 
